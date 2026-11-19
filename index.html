@@ -15,6 +15,9 @@
 <meta property="og:title" content="Planeta Vivo 2026 · La Madre Tierra nos habla">
 <meta property="og:description" content="Las poblaciones de fauna cayeron 73 % desde 1970 y 95 % en América Latina. Mira las cifras, las fotos y los videos reales del informe de WWF, y haz tu promesa con la Tierra.">
 <meta property="og:image" content="https://planeta-vivo-2026.netlify.app/og.jpg">
+<meta property="og:image:secure_url" content="https://planeta-vivo-2026.netlify.app/og.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:alt" content="Tití león de cabeza dorada: las poblaciones de fauna cayeron 73 % desde 1970">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:locale" content="es_CO">
@@ -666,7 +669,7 @@ function renderQ(){
     const msg=score===Q.length?'¡Perfecto! Eres guardián del planeta.':score>=4?'¡Muy bien! Ya sabes más que la mayoría.':'Vas por buen camino. Repasa las cifras y vuelve a intentarlo.';
     box.innerHTML=`<p class="eyebrow">Resultado</p><h3 style="margin-top:8px;font-size:2.2rem">${score} de ${Q.length}</h3><p class="qexp">${msg}</p><div class="btns"><button class="btn primary" id="qShare" type="button">Retar a mis amigos</button><button class="btn ghost" id="qAgain" type="button">Intentar de nuevo</button></div>`;
     $('#qAgain').onclick=()=>{qi=0;score=0;renderQ()};
-    $('#qShare').onclick=()=>{window.open('https://wa.me/?text='+encodeURIComponent(`Saqué ${score} de ${Q.length} en el quiz del Informe Planeta Vivo 2026. ¿Cuánto sacas tú? ${APP_URL}#quiz`),'_blank')};
+    $('#qShare').onclick=()=>{window.open('https://wa.me/?text='+encodeURIComponent(`${APP_URL}#quiz\n\nSaqué ${score} de ${Q.length} en el quiz del Informe Planeta Vivo 2026. ¿Cuánto sacas tú? Haz el quiz aquí: ${APP_URL}#quiz`),'_blank')};
     return;
   }
   const it=Q[qi];
@@ -700,7 +703,9 @@ $('#pName').value=store.get('pv26_name','');
 function msg(){
   const n=$('#pName').value.trim();
   const list=done.slice().sort((a,b)=>a-b).map(i=>'- '+ACTS[i][0]).join('\n');
-  return `${n?n+' hizo':'Hice'} su promesa con la Madre Tierra.\n\nEl Informe Planeta Vivo 2026 de WWF dice que las poblaciones de fauna cayeron 73 % desde 1970, y 95 % en América Latina. Pero donde la gente actúa, la vida vuelve.\n\n${list||'Todavía estoy escogiendo mis compromisos.'}\n\nHaz la tuya aquí: ${APP_URL}#promesa`;
+  return `${APP_URL}#promesa
+
+${n?n+' hizo':'Hice'} su promesa con la Madre Tierra.\n\nEl Informe Planeta Vivo 2026 de WWF dice que las poblaciones de fauna cayeron 73 % desde 1970, y 95 % en América Latina. Pero donde la gente actúa, la vida vuelve.\n\n${list||'Todavía estoy escogiendo mis compromisos.'}\n\nHaz la tuya aquí: ${APP_URL}#promesa`;
 }
 function updatePledge(){
   $('#pCount').textContent=done.length;
