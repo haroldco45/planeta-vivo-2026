@@ -1,14 +1,26 @@
 {
- "actualizado": "2026-11-19T23:07:11.233Z",
- "actualizadoBogota": "19 de noviembre de 2026, 6:07 p. m.",
+ "actualizado": "2026-11-19T23:09:14.838Z",
+ "actualizadoBogota": "19 de noviembre de 2026 a las 6:09 p. m.",
  "fuentes": {
+  "wwfInicio": "error: bloqueado y sin respaldo",
+  "wwfNoticias": "error: sitio no disponible en esta corrida",
+  "wwfRSS": "error: sitio no disponible en esta corrida",
+  "prensa": 7,
+  "prensaBing": 12,
+  "prensaAmbiente": 7,
   "notasAbiertas": 0,
-  "fotosPrensa": 5,
+  "fotosPrensa": 6,
+  "paginasConFoto": 0,
   "fotosGaleria": 80,
-  "videosCanal": "error: solo limpieza",
-  "traducciones": 0,
-  "rutas": {},
-  "segundos": 0
+  "videosCanal": 24,
+  "traducciones": 4,
+  "errorTraduccion": "google: HTTP 429",
+  "rutas": {
+   "news.google.com": "directo",
+   "www.bing.com": "directo",
+   "www.youtube.com": "directo"
+  },
+  "segundos": 61
  },
  "wwf": [
   {
@@ -1442,6 +1454,20 @@
    "destacada": false,
    "primeraVez": "2026-10-24T01:44:27.869Z",
    "titulo_en": "Application of the Water Risk Filter (WRF) in the financial sector: Finagro case"
+  },
+  {
+   "id": "prensa-zl678f",
+   "titulo": "Itaú Colombia y WWF Colombia lanzan la segunda fase de “Páramos para el Futuro” para proteger las fábricas de agua del país",
+   "resumen": "",
+   "fecha": "2026-04-24T08:00:00.000Z",
+   "imagen": "https://i.revistapym.com.co/cms/2026/04/24143745/3-10.png?w=1280",
+   "credito": "© revistapym.com.co",
+   "enlace": "https://www.revistapym.com.co/articulos/marcas-sostenibles/97131/itau-colombia-y-wwf-colombia-lanzan-la-segunda-fase-de-paramos-para-el-futuro-para-proteger-las-fabricas-de-agua-del-pais",
+   "fuente": "revistapym.com.co",
+   "tipo": "prensa",
+   "destacada": false,
+   "primeraVez": "2026-11-19T23:09:14.838Z",
+   "fotoRevisada": true
   }
  ],
  "videos": [
@@ -1520,11 +1546,11 @@
   {
    "id": "GpIZihwW7kE",
    "titulo": "Después de ser saqueadas, las tortugas vuelven a sus nidos",
-   "resumen": "Durante años, los nidos de tortuga verde fueron saqueados y las crías quedaron desprotegidas. Pero la esperanza tiene su propia forma de paciencia. Las comunidades protegieron y restauraron playas de anidación, mientras",
+   "resumen": "Durante años, los nidos de tortuga verde fueron saqueados y las crías quedaron desprotegidas. Pero la esperanza tiene su propia forma de paciencia. Las comunidades protegieron y restauraron playas de anidación, mientras ",
    "fecha": "2026-10-16T17:31:41+00:00",
    "canal": "WWF Colombia",
    "titulo_en": "After being looted, the turtles return to their nests",
-   "resumen_en": "For years, the green turtle nests were looted and the hatchlings were left unprotected. But hope has its own form of patience. Communities protected and restored nesting beaches, while"
+   "resumen_en": "For years, green turtle nests were raided and the hatchlings were left unprotected. But hope has its own form of patience. Communities protected and restored nesting beaches, while"
   },
   {
    "id": "ax4XzEjgk7w",
@@ -1556,11 +1582,11 @@
   {
    "id": "oOhCht7oSBw",
    "titulo": "¿Por qué está lloviendo tanto y tan fuerte? ⛈️",
-   "resumen": "",
+   "resumen": "¿Por qué está lloviendo tanto y tan fuerte en pleno Fenómeno del Niño?🔥⛈️🏜️🌡️ ¿Y qué debemos esperar en lo que resta del año? Nuestro director de Conservación y Gobernanza, Carlos Mauricio Herrera, lo explica.",
    "fecha": "2026-10-07T23:24:49+00:00",
    "canal": "WWF Colombia",
    "titulo_en": "Why is it raining so much and so hard? ⛈️",
-   "resumen_en": ""
+   "resumen_en": "Why is it raining so much and so heavily in the midst of the El Niño phenomenon?🔥⛈️🏜️🌡️ And what should we expect for the rest of the year? Our Director of Conservation and Governance, Carlos Mauricio Herrera, explains."
   },
   {
    "id": "m1g-T1h5cLs",
@@ -1664,11 +1690,11 @@
   {
    "id": "gyDHODT_jAk",
    "titulo": "A Peace-Building Experience With Nature in the Amazon Forest",
-   "resumen": "The Protected Areas & Peace program is a determined and joint commitment to this recovery of the territory with the help of rural communities and their economic development. Thanks to this process, families have changed",
+   "resumen": "The Protected Areas & Peace program is a determined and joint commitment to this recovery of the territory with the help of rural communities and their economic development. Thanks to this process, families have changed ",
    "fecha": "2024-06-17T11:26:11+00:00",
    "canal": "WWF Colombia",
    "titulo_en": "A Peace-Building Experience With Nature in the Amazon Forest",
-   "resumen_en": "The Protected Areas & Peace program is a determined and joint commitment to this recovery of the territory with the help of rural communities and their economic development. Thanks to this process, families have changed"
+   "resumen_en": "The Protected Areas & Peace program is a determined and joint commitment to this recovery of the territory with the help of rural communities and their economic development. Thanks to this process, families have changed."
   },
   {
    "id": "Y_fdynBIm2k",
@@ -1682,11 +1708,11 @@
   {
    "id": "G8TJL-qlZ0c",
    "titulo": "The Story of Elsy | Before and After Conservation | WWF Colombia",
-   "resumen": "For over 30 years, Elsy Alvear has dedicated herself to bringing a once barren mountain back to life. Her motivation has been to repair the damage caused by extractive activities that she and her family were responsible",
+   "resumen": "For over 30 years, Elsy Alvear has dedicated herself to bringing a once barren mountain back to life. Her motivation has been to repair the damage caused by extractive activities that she and her family were responsible ",
    "fecha": "2023-10-12T19:52:57+00:00",
    "canal": "WWF Colombia",
    "titulo_en": "The Story of Elsy | Before and After Conservation | WWF Colombia",
-   "resumen_en": "For over 30 years, Elsy Alvear has dedicated herself to bringing a once barren mountain back to life. Her motivation has been to repair the damage caused by extractive activities that she and her family were responsible for"
+   "resumen_en": "For over 30 years, Elsy Alvear has dedicated herself to bringing a once-barren mountain back to life. Her motivation has been to repair the damage caused by extractive activities for which she and her family were responsible."
   },
   {
    "id": "hKe4LPgTUww",
