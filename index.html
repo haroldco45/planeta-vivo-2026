@@ -11,17 +11,17 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Planeta Vivo">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://haroldco45.github.io/planeta-vivo-2026/">
+<meta property="og:url" content="https://planeta-vivo-2026.netlify.app/">
 <meta property="og:title" content="Planeta Vivo 2026 · La Madre Tierra nos habla">
 <meta property="og:description" content="Las poblaciones de fauna cayeron 73 % desde 1970 y 95 % en América Latina. Mira las cifras, las fotos y los videos reales del informe de WWF, y haz tu promesa con la Tierra.">
-<meta property="og:image" content="https://haroldco45.github.io/planeta-vivo-2026/og.jpg">
+<meta property="og:image" content="https://planeta-vivo-2026.netlify.app/og.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:locale" content="es_CO">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Planeta Vivo 2026 · La Madre Tierra nos habla">
 <meta name="twitter:description" content="Las poblaciones de fauna cayeron 73 % desde 1970 y 95 % en América Latina. Mira las cifras, las fotos y los videos reales del informe de WWF, y haz tu promesa con la Tierra.">
-<meta name="twitter:image" content="https://haroldco45.github.io/planeta-vivo-2026/og.jpg">
+<meta name="twitter:image" content="https://planeta-vivo-2026.netlify.app/og.jpg">
 <style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}img{max-width:100%}[hidden]{display:none!important}</style>
 <title>Planeta Vivo 2026</title>
 <meta name="claude:viewport-fit-sides" content="cover">
@@ -681,7 +681,7 @@ function renderQ(){
 renderQ();
 
 /* promesa */
-const APP_URL='https://haroldco45.github.io/planeta-vivo-2026/';
+const APP_URL='https://planeta-vivo-2026.netlify.app/';
 const ACTS=[
  ['No compro ni tengo animales silvestres','El tráfico de fauna es sobreexplotación. Loros, monos y tortugas viven mejor libres.'],
  ['No boto basura ni aceite al río','Los ríos y ciénagas tienen el declive más fuerte: −85 %.'],
@@ -700,7 +700,7 @@ $('#pName').value=store.get('pv26_name','');
 function msg(){
   const n=$('#pName').value.trim();
   const list=done.slice().sort((a,b)=>a-b).map(i=>'- '+ACTS[i][0]).join('\n');
-  return `${n?n+' hizo':'Hice'} su promesa con la Madre Tierra.\n\nEl Informe Planeta Vivo 2026 de WWF dice que las poblaciones de fauna cayeron 73 % desde 1970, y 95 % en América Latina. Pero donde la gente actúa, la vida vuelve.\n\n${list||'Todavía estoy escogiendo mis compromisos.'}\n\nHaz la tuya aquí: ${APP_URL}`;
+  return `${n?n+' hizo':'Hice'} su promesa con la Madre Tierra.\n\nEl Informe Planeta Vivo 2026 de WWF dice que las poblaciones de fauna cayeron 73 % desde 1970, y 95 % en América Latina. Pero donde la gente actúa, la vida vuelve.\n\n${list||'Todavía estoy escogiendo mis compromisos.'}\n\nHaz la tuya aquí: ${APP_URL}#promesa`;
 }
 function updatePledge(){
   $('#pCount').textContent=done.length;

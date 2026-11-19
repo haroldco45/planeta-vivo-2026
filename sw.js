@@ -1,5 +1,5 @@
 // Planeta Vivo 2026 — Vibras Positivas HM
-const CACHE = 'planeta-vivo-2026-v2';
+const CACHE = 'planeta-vivo-2026-v3';
 const ASSETS = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png', './og.jpg'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)).then(() => self.skipWaiting()));
