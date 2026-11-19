@@ -13,6 +13,7 @@ App ciudadana (PWA) de **Vibras Positivas HM** para que más gente conozca el **
 - Galería con fotos reales del informe y sus créditos.
 - Quiz de 6 preguntas para compartir por WhatsApp.
 - "Mi promesa con la Madre Tierra": 9 compromisos y un árbol que crece; se comparte por WhatsApp.
+- **WWF Colombia al día:** robot de GitHub Actions que cada 30 minutos trae noticias de wwf.org.co, lo que dice la prensa sobre WWF en Colombia y los videos del canal de YouTube de WWF Colombia. Sección "Hoy", buscador, botón Actualizar y búsqueda en vivo al abrir.
 - Instalable en el celular y funciona sin internet después de la primera visita.
 
 ## Archivos
@@ -23,6 +24,9 @@ App ciudadana (PWA) de **Vibras Positivas HM** para que más gente conozca el **
 | `sw.js` | Funcionamiento sin conexión |
 | `icon-192.png`, `icon-512.png` | Íconos |
 | `og.jpg` | Imagen 1200×630 que se ve al compartir el enlace |
+| `scripts/robot.mjs` | El robot que trae las noticias de WWF Colombia |
+| `.github/workflows/robot.yml` | Corre el robot cada 30 minutos (Actions → Run workflow para correrlo a mano) |
+| `data/noticias.json` | Lo que trajo el robot; la app lo lee al abrir |
 
 ## Publicar en GitHub Pages
 1. Crear el repositorio `planeta-vivo-2026` en la cuenta `haroldco45`.

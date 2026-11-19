@@ -263,6 +263,50 @@ dialog#lb button{position:absolute;top:8px;right:8px;background:var(--selva);col
 .donor blockquote{margin:0;font-family:var(--f-display);font-size:clamp(1.4rem,3.4vw,2rem);line-height:1.2}
 .donor cite{font-style:normal;color:var(--oro);font-size:.95rem}
 
+
+/* WWF Colombia al día (robot) */
+.wwf-head{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:16px}
+.live{display:inline-flex;align-items:center;gap:8px;font-family:var(--f-data);font-size:.78rem;color:var(--liquen)}
+.live i{width:8px;height:8px;border-radius:50%;background:var(--brote);box-shadow:0 0 0 0 rgba(155,210,126,.7);animation:pulso 2s infinite}
+@keyframes pulso{70%{box-shadow:0 0 0 10px rgba(155,210,126,0)}100%{box-shadow:0 0 0 0 rgba(155,210,126,0)}}
+.wbar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-top:24px}
+.wtabs{display:flex;gap:6px;flex-wrap:wrap}
+.wtabs button{background:transparent;color:var(--liquen);border:1px solid var(--linea);border-radius:999px;padding:8px 14px;font:600 .9rem var(--f-body);cursor:pointer}
+.wtabs button[aria-selected="true"]{background:var(--hueso);color:var(--selva);border-color:var(--hueso)}
+.wtabs button span{font-family:var(--f-data);font-weight:400;opacity:.7;margin-left:4px}
+#wq{flex:1 1 220px;min-width:0;background:var(--musgo);border:1px solid var(--linea);color:var(--hueso);border-radius:999px;padding:10px 16px;font:1rem var(--f-body)}
+#wRefresh{background:var(--brote);color:var(--selva);border:0;border-radius:999px;padding:10px 16px;font:600 .9rem var(--f-body);cursor:pointer}
+#wRefresh[disabled]{opacity:.6;cursor:wait}
+.hoy{display:grid;grid-template-columns:1.4fr 1fr;gap:18px;margin-top:28px}
+.hoy>*{min-width:0}
+@media (max-width:820px){.hoy{grid-template-columns:1fr}}
+.hoy .lead{position:relative;border-radius:16px;overflow:hidden;min-height:360px;display:flex;align-items:flex-end;text-decoration:none;color:var(--hueso);background:var(--musgo)}
+.hoy .lead img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform .8s}
+.hoy .lead:hover img{transform:scale(1.04)}
+.hoy .lead::after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,rgba(12,28,23,.95) 10%,rgba(12,28,23,.1) 70%)}
+.hoy .lead .in{position:relative;z-index:1;padding:22px;display:flex;flex-direction:column;gap:8px}
+.hoy .lead h3{font-size:clamp(1.4rem,3.4vw,2rem)}
+.hoy .side{display:flex;flex-direction:column;gap:12px}
+.wtag{align-self:flex-start;font-family:var(--f-data);font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;border-radius:999px;padding:3px 10px;background:var(--oro);color:var(--selva)}
+.wtag.hoyt{background:var(--achiote)}
+.wmeta{font-family:var(--f-data);font-size:.74rem;color:var(--liquen)}
+.wlist{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:24px}
+@media (max-width:900px){.wlist{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:560px){.wlist{grid-template-columns:1fr}}
+.wcard{background:var(--musgo);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;text-decoration:none;color:var(--hueso);border:1px solid transparent;transition:border-color .3s,transform .3s}
+.wcard:hover{border-color:var(--brote);transform:translateY(-2px)}
+.wcard .ph{position:relative;aspect-ratio:16/10;background:var(--selva);overflow:hidden}
+.wcard .ph img{width:100%;height:100%;object-fit:cover;display:block}
+.wcard .ph small{position:absolute;right:6px;bottom:4px;font-size:.62rem;color:rgba(242,238,227,.85);text-shadow:0 1px 2px #000;max-width:90%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.wcard .ph .pl{position:absolute;left:50%;top:50%;width:54px;height:54px;margin:-27px 0 0 -27px;border-radius:50%;background:var(--brote);display:grid;place-items:center}
+.wcard .in{padding:14px 16px 16px;display:flex;flex-direction:column;gap:6px}
+.wcard h4{font-family:var(--f-display);font-weight:400;font-size:1.12rem;line-height:1.2;margin:0}
+.wcard p{font-size:.88rem;color:var(--liquen);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.side .wcard{flex-direction:row}
+.side .wcard .ph{flex:0 0 38%;aspect-ratio:auto;min-height:110px}
+.wmore{margin-top:20px}
+.wempty{color:var(--liquen);padding:28px 0}
+.wnote{font-size:.8rem;color:var(--liquen);margin-top:18px}
 footer{border-top:1px solid var(--linea);padding-block:44px 56px;color:var(--liquen);font-size:.86rem}
 footer .wrap{display:flex;flex-direction:column;gap:14px}
 footer .vp{color:var(--hueso);font-weight:600}
@@ -277,7 +321,7 @@ footer ul{columns:2 280px;padding-left:18px;margin:10px 0 0;font-size:.8rem}
   <div class="wrap">
     <a class="brand" href="#inicio"><svg width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19C5 10 11 4 20 4c0 9-6 15-15 15z" fill="#9BD27E"/><path d="M6 18L16 8" stroke="#0C1C17" stroke-width="1.6"/></svg>Planeta Vivo 2026</a>
     <nav class="nav" aria-label="Secciones">
-      <a href="#cifras">Cifras</a><a href="#latam">Latinoamérica</a><a href="#esperanza">Esperanza</a><a href="#videos">Videos</a><a href="#fotos">Fotos</a><a href="#quiz">Quiz</a><a href="#promesa">Mi promesa</a>
+      <a href="#cifras">Cifras</a><a href="#latam">Latinoamérica</a><a href="#esperanza">Esperanza</a><a href="#wwf">WWF Colombia</a><a href="#videos">Videos</a><a href="#fotos">Fotos</a><a href="#quiz">Quiz</a><a href="#promesa">Mi promesa</a>
     </nav>
     <button id="installBtn" hidden>Instalar</button>
   </div>
@@ -475,6 +519,32 @@ footer ul{columns:2 280px;padding-left:18px;margin:10px 0 0;font-size:.8rem}
   </div>
 </section>
 
+<section id="wwf" style="background:var(--musgo)">
+  <div class="wrap">
+    <div class="wwf-head">
+      <div>
+        <p class="eyebrow">WWF Colombia al día</p>
+        <h2 style="margin-top:12px;max-width:20ch">Lo que está pasando con la naturaleza en Colombia</h2>
+      </div>
+      <p class="live"><i></i><span id="wStamp">Cargando noticias…</span></p>
+    </div>
+    <p class="muted narrow" style="margin-top:14px">Un robot revisa cada 30 minutos las noticias de WWF Colombia, lo que dice la prensa sobre su trabajo y los videos de su canal. Toca cualquier nota para leerla completa en su fuente.</p>
+    <div class="hoy" id="wHoy"></div>
+    <div class="wbar">
+      <div class="wtabs" role="tablist" aria-label="Tipo de contenido">
+        <button type="button" role="tab" data-t="wwf" aria-selected="true">De WWF Colombia<span id="nWwf"></span></button>
+        <button type="button" role="tab" data-t="prensa" aria-selected="false">En la prensa<span id="nPrensa"></span></button>
+        <button type="button" role="tab" data-t="videos" aria-selected="false">Videos<span id="nVideos"></span></button>
+      </div>
+      <input id="wq" type="search" placeholder="Buscar: jaguar, Amazonía, agua…" aria-label="Buscar noticias">
+      <button type="button" id="wRefresh">Actualizar</button>
+    </div>
+    <div class="wlist" id="wList"></div>
+    <div class="wmore"><button type="button" class="btn ghost" id="wMore" hidden>Ver más</button></div>
+    <p class="wnote">Contenido de wwf.org.co, de medios de comunicación y del canal de YouTube de WWF Colombia, siempre con enlace a su fuente. Cuando una nota no trae foto, se muestra una del Informe Planeta Vivo 2026 con su crédito.</p>
+  </div>
+</section>
+
 <section id="fotos">
   <div class="wrap">
     <p class="eyebrow">Fotos reales del informe</p>
@@ -538,7 +608,7 @@ footer ul{columns:2 280px;padding-left:18px;margin:10px 0 0;font-size:.8rem}
     <p><strong style="color:var(--hueso)">Fuente:</strong> WWF (2026). <em>Informe Planeta Vivo 2026 – La ciencia de la esperanza</em>. WWF, Gland, Suiza. Datos del Índice Planeta Vivo 1970–2022 (WWF y Sociedad Zoológica de Londres).</p>
     <p>App independiente de divulgación ciudadana. No es una publicación oficial de WWF. Informe Planeta Vivo® e Índice Planeta Vivo® son marcas registradas de WWF Internacional. Las fotografías pertenecen a sus autores y se muestran con su crédito, tal como aparecen en el informe.</p>
     <details><summary>Créditos de las fotografías</summary><ul id="credits"></ul></details>
-    <p>Actualizada el 22 de octubre de 2026 (hora de Colombia).</p>
+    <p>Sección WWF Colombia al día actualizada por robot cada 30 minutos (hora de Colombia).</p>
     <p class="vp">Desarrollada por Vibras Positivas HM — Derechos de Autor Reservados</p>
   </div>
 </footer>
@@ -596,7 +666,7 @@ function renderQ(){
     const msg=score===Q.length?'¡Perfecto! Eres guardián del planeta.':score>=4?'¡Muy bien! Ya sabes más que la mayoría.':'Vas por buen camino. Repasa las cifras y vuelve a intentarlo.';
     box.innerHTML=`<p class="eyebrow">Resultado</p><h3 style="margin-top:8px;font-size:2.2rem">${score} de ${Q.length}</h3><p class="qexp">${msg}</p><div class="btns"><button class="btn primary" id="qShare" type="button">Retar a mis amigos</button><button class="btn ghost" id="qAgain" type="button">Intentar de nuevo</button></div>`;
     $('#qAgain').onclick=()=>{qi=0;score=0;renderQ()};
-    $('#qShare').onclick=()=>{window.open('https://wa.me/?text='+encodeURIComponent(`Saqué ${score} de ${Q.length} en el quiz del Informe Planeta Vivo 2026 🌎 ¿Cuánto sacas tú? ${APP_URL}#quiz`),'_blank')};
+    $('#qShare').onclick=()=>{window.open('https://wa.me/?text='+encodeURIComponent(`Saqué ${score} de ${Q.length} en el quiz del Informe Planeta Vivo 2026. ¿Cuánto sacas tú? ${APP_URL}#quiz`),'_blank')};
     return;
   }
   const it=Q[qi];
@@ -629,8 +699,8 @@ $('#checks').innerHTML=ACTS.map((a,i)=>`<label for="act${i}"><input type="checkb
 $('#pName').value=store.get('pv26_name','');
 function msg(){
   const n=$('#pName').value.trim();
-  const list=done.slice().sort((a,b)=>a-b).map(i=>'✅ '+ACTS[i][0]).join('\n');
-  return `🌎 ${n?n+' hizo':'Hice'} su promesa con la Madre Tierra.\n\nEl Informe Planeta Vivo 2026 de WWF dice que las poblaciones de fauna cayeron 73 % desde 1970, y 95 % en América Latina. Pero donde la gente actúa, la vida vuelve.\n\n${list||'Todavía estoy escogiendo mis compromisos.'}\n\nHaz la tuya aquí: ${APP_URL}`;
+  const list=done.slice().sort((a,b)=>a-b).map(i=>'- '+ACTS[i][0]).join('\n');
+  return `${n?n+' hizo':'Hice'} su promesa con la Madre Tierra.\n\nEl Informe Planeta Vivo 2026 de WWF dice que las poblaciones de fauna cayeron 73 % desde 1970, y 95 % en América Latina. Pero donde la gente actúa, la vida vuelve.\n\n${list||'Todavía estoy escogiendo mis compromisos.'}\n\nHaz la tuya aquí: ${APP_URL}`;
 }
 function updatePledge(){
   $('#pCount').textContent=done.length;
@@ -665,6 +735,79 @@ function drawTree(n){
   if(n===ACTS.length){c.fillStyle='#F08A5C';leaves.filter((_,i)=>i%3===0).forEach(([x,y])=>{c.beginPath();c.arc(x+6,y+8,6,0,Math.PI*2);c.fill()})}
 }
 updatePledge();
+
+/* WWF Colombia al día: datos del robot (GitHub Actions cada 30 min) */
+(function(){
+  const RAW='https://raw.githubusercontent.com/haroldco45/planeta-vivo-2026/main/data/noticias.json';
+  const LOCAL='./data/noticias.json';
+  const FALL=['caiman','frog','kingfisher','lagoon','wetland','bee','acai','peru','tea','warbler','rice','fungi','orangutan','turtle'];
+  const esc=t=>String(t==null?'':t).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const sinEmoji=t=>String(t||'').replace(/[\p{Extended_Pictographic}\u{FE0F}\u{200D}]/gu,'').replace(/\s{2,}/g,' ').trim();
+  const norm=t=>String(t||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');
+  const tz={timeZone:'America/Bogota'};
+  const diaBog=d=>new Date(d).toLocaleDateString('en-CA',tz);
+  const HOY=()=>diaBog(Date.now());
+  const cuando=d=>{if(!d)return '';const t=new Date(d);if(isNaN(t))return '';const min=(Date.now()-t)/6e4;
+    if(min<60)return 'hace '+Math.max(1,Math.round(min))+' min';if(min<1440)return 'hace '+Math.round(min/60)+' h';
+    if(min<2880)return 'ayer';return t.toLocaleDateString('es-CO',{...tz,day:'numeric',month:'short',year:'numeric'});};
+  const fechaDe=it=>it.fecha||it.primeraVez||null;
+  let data=null,tab='wwf',q='',shown=12;
+  window.pvFallback=(img,k)=>{img.onerror=null;img.src=PHOTOS[k].src;const sm=img.parentElement.querySelector('small');if(sm)sm.textContent='Foto: '+PHOTOS[k].cr+' (Informe Planeta Vivo 2026)';};
+  function foto(it,i){
+    if(it.tipo==='video'||it.vid) return {src:'https://i.ytimg.com/vi/'+it.vid+'/hqdefault.jpg',cr:'WWF Colombia / YouTube'};
+    if(it.imagen) return {src:it.imagen,cr:(it.credito||'').replace(/^©\s*/,'')};
+    const k=FALL[i%FALL.length];return {src:PHOTOS[k].src,cr:PHOTOS[k].cr+' (Informe Planeta Vivo 2026)'};
+  }
+  function items(t){
+    if(!data)return [];
+    if(t==='videos')return (data.videos||[]).filter(v=>v.titulo).map(v=>({tipo:'video',vid:v.id,titulo:v.titulo,resumen:v.resumen,fecha:v.fecha,fuente:v.canal||'WWF Colombia',enlace:'https://www.youtube.com/watch?v='+v.id}));
+    return (data[t]||[]).slice().sort((a,b)=>String(fechaDe(b)||'').localeCompare(String(fechaDe(a)||'')));
+  }
+  function card(it,i,cls){
+    const f=foto(it,i);
+    const tag=it.tipo==='video'?'Video':it.tipo==='prensa'?esc(it.fuente||'Prensa'):'WWF Colombia';
+    const hoy=fechaDe(it)&&diaBog(fechaDe(it))===HOY();
+    return `<a class="wcard ${cls||''}" href="${esc(it.enlace)}" target="_blank" rel="noopener">
+      <div class="ph"><img src="${esc(f.src)}" alt="" loading="lazy" onerror="pvFallback(this,'${FALL[i%FALL.length]}')"><small>${f.cr?'Foto: '+esc(f.cr):''}</small>${it.tipo==='video'?'<span class="pl"><svg width="20" height="20" viewBox="0 0 24 24"><path d="M8 5v14l11-7z" fill="#0C1C17"/></svg></span>':''}</div>
+      <div class="in"><span class="wmeta">${hoy?'<b style="color:var(--achiote)">HOY</b> · ':''}${tag}${cuando(fechaDe(it))?' · '+cuando(fechaDe(it)):''}</span><h4>${esc(sinEmoji(it.titulo))}</h4>${it.resumen?`<p>${esc(sinEmoji(it.resumen))}</p>`:''}</div></a>`;
+  }
+  function renderHoy(){
+    const todo=[...items('wwf'),...items('prensa'),...items('videos')].filter(i=>fechaDe(i)).sort((a,b)=>String(fechaDe(b)).localeCompare(String(fechaDe(a))));
+    const deHoy=todo.filter(i=>diaBog(fechaDe(i))===HOY());
+    const sel=[...deHoy,...todo.filter(x=>!deHoy.includes(x))].slice(0,4);
+    if(!sel.length){$('#wHoy').innerHTML='';return;}
+    const [a,...r]=sel;const f=foto(a,0);
+    $('#wHoy').innerHTML=`<a class="lead" href="${esc(a.enlace)}" target="_blank" rel="noopener"><img src="${esc(f.src)}" alt="" onerror="pvFallback(this,'caiman')"><div class="in"><span class="wtag ${deHoy.length?'hoyt':''}">${deHoy.length?'Hoy':'Lo más reciente'}</span><span class="wmeta">${a.tipo==='video'?'Video WWF Colombia':esc(a.fuente||'WWF Colombia')} · ${cuando(fechaDe(a))}</span><h3>${esc(sinEmoji(a.titulo))}</h3><small style="font-size:.66rem;color:rgba(242,238,227,.7)">${f.cr?'Foto: '+esc(f.cr):''}</small></div></a><div class="side">${r.map((x,i)=>card(x,i+3)).join('')}</div>`;
+  }
+  function renderList(){
+    let l=items(tab);
+    if(q){const w=norm(q).split(/\s+/).filter(Boolean);l=l.filter(i=>{const t=norm(i.titulo+' '+(i.resumen||'')+' '+(i.fuente||''));return w.every(x=>t.includes(x));});}
+    $('#wList').innerHTML=l.length?l.slice(0,shown).map((it,i)=>card(it,i)).join(''):`<p class="wempty">${q?'No hay resultados para “'+esc(q)+'”.':'Todavía no hay contenido en esta sección.'}</p>`;
+    $('#wMore').hidden=l.length<=shown;
+  }
+  function render(){
+    $('#nWwf').textContent=(data.wwf||[]).length;$('#nPrensa').textContent=(data.prensa||[]).length;$('#nVideos').textContent=(data.videos||[]).filter(v=>v.titulo).length;
+    $('#wStamp').textContent='Robot: '+(data.actualizadoBogota||cuando(data.actualizado))+' (hora Colombia)';
+    renderHoy();renderList();
+  }
+  async function cargar(manual){
+    const b=$('#wRefresh');b.disabled=true;b.textContent='Buscando…';
+    let d=null;
+    for(const u of [RAW+'?t='+Date.now(),LOCAL+'?t='+Date.now()]){try{const r=await fetch(u,{cache:'no-store'});if(r.ok){d=await r.json();break;}}catch(e){}}
+    if(d){data=d;try{localStorage.setItem('pv26_wwf',JSON.stringify(d))}catch(e){}}
+    else if(!data){try{data=JSON.parse(localStorage.getItem('pv26_wwf')||'null')}catch(e){}}
+    if(data)render();else $('#wStamp').textContent='Sin conexión: vuelve a intentar.';
+    b.disabled=false;b.textContent=manual?(d?'Actualizado':'Sin conexión'):'Actualizar';
+    if(manual)setTimeout(()=>{b.textContent='Actualizar'},2500);
+  }
+  document.querySelectorAll('.wtabs button').forEach(b=>b.onclick=()=>{tab=b.dataset.t;shown=12;document.querySelectorAll('.wtabs button').forEach(x=>x.setAttribute('aria-selected',x===b));renderList();});
+  $('#wq').addEventListener('input',e=>{q=e.target.value.trim();shown=12;renderList();});
+  $('#wMore').onclick=()=>{shown+=12;renderList();};
+  $('#wRefresh').onclick=()=>cargar(true);
+  document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='visible'&&data&&Date.now()-new Date(data.actualizado)>30*6e4)cargar(false);});
+  try{const c=JSON.parse(localStorage.getItem('pv26_wwf')||'null');if(c){data=c;render();}}catch(e){}
+  cargar(false);
+})();
 
 /* PWA */
 if('serviceWorker' in navigator && location.protocol==='https:' && !/claude|claudeusercontent/.test(location.hostname)){
