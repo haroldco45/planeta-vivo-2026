@@ -1,15 +1,16 @@
 {
- "actualizado": "2026-11-20T13:28:31.046Z",
- "actualizadoBogota": "20 de noviembre de 2026 a las 8:28 a. m.",
+ "actualizado": "2026-11-20T21:28:54.102Z",
+ "actualizadoBogota": "20 de noviembre de 2026 a las 4:28 p. m.",
  "fuentes": {
   "wwfInicio": "error: bloqueado y sin respaldo",
   "wwfNoticias": "error: sitio no disponible en esta corrida",
   "wwfRSS": "error: sitio no disponible en esta corrida",
-  "prensa": 6,
+  "prensa": 27,
   "prensaBing": 12,
-  "prensaAmbiente": 10,
+  "prensaAmbiente": 8,
   "notasAbiertas": 0,
   "fotosPrensa": 5,
+  "paginasConFoto": 0,
   "fotosGaleria": 80,
   "videosCanal": 24,
   "traducciones": 7,
@@ -19,7 +20,7 @@
    "www.bing.com": "directo",
    "www.youtube.com": "directo"
   },
-  "segundos": 65
+  "segundos": 62
  },
  "wwf": [
   {
@@ -394,17 +395,45 @@
  ],
  "prensa": [
   {
-   "id": "prensa-1om0pxp",
-   "titulo": "Asegurar agua y energía, los desafíos de Colombia más allá de El Niño",
+   "id": "prensa-oh4xj6",
+   "titulo": "Una amenaza sin fronteras: cinco países refuerzan la protección de las ballenas en el Pacífico",
    "resumen": "",
-   "fecha": "2026-11-19T06:00:00.000Z",
-   "imagen": "https://www.bing.com/th?id=ONUT.qrDamxm2e5MS45haAXLyVA&pid=News",
-   "credito": "© El Espectador on MSN",
-   "enlace": "https://www.msn.com/es-co/el-tiempo/cambio-clim%C3%A1tico/asegurar-agua-y-energ%C3%ADa-los-desaf%C3%ADos-de-colombia-m%C3%A1s-all%C3%A1-de-el-ni%C3%B1o/ar-AA2hMmd1",
-   "fuente": "El Espectador on MSN",
+   "fecha": "2026-11-20T16:52:40.000Z",
+   "imagen": "",
+   "credito": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOWtCeHRXeWluMXd1cVh5UnRvUlFyaFd4ZmJQQ3BXZ3FFVHhITXhDWmUzRUhPS1ZrNGpyWE5ERVpUd2dSWEVUbjBaeEpLX2VkRjEyMHZpRC02NkdWSGU2bF9LdnR4cGVaWGFiNExSX240cXB3SDZHcmRYTk9SSC1feElYU2NvdkJwNmlyMVNfZi1tUHNVRkVWaUNQR3B3aUNBQm5oV0pheGptUVhpc3dMc3VvM0dOU3VsaFFQRnBLQmFjZw?oc=5",
+   "fuente": "WWF Perú",
    "tipo": "prensa",
    "destacada": false,
-   "primeraVez": "2026-11-19T18:33:20.838Z",
+   "primeraVez": "2026-11-20T21:28:54.102Z",
+   "titulo_en": "A threat without borders: Five countries strengthen the protection of whales in the Pacific"
+  },
+  {
+   "id": "prensa-zgga3g",
+   "titulo": "El debate por el futuro de Caquetá y Putumayo que han generado las bases del PND",
+   "resumen": "",
+   "fecha": "2026-11-20T01:55:50.000Z",
+   "imagen": "",
+   "credito": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdmkyZnlxLWNqVDJZd3FGRmp6RzhKRnB5cEVtd0d2MlVsZGJkM1JjMzU3d3ZCRG1pcXdGVFNOSVZ5QkQwV2RLeV9GaDhuMnlaazhJSjQyeUEyS0ZST0FUdFBHWERKYTB3NTZ2WVBhOWJwNXBmRThxSm94cEdzdnZvdHotSkN6TFRlUWN6a1F3c3llMnFJOHFPc3ZLZWczalBqU0p6QmF5Ql9CaFRYRHF3dlZ2Mlp5cFlLZU9KQU10S0JhWnNEYVF4RHlJZzdNdzVKeURzTWhDdWFCakHSAdsBQVVfeXFMTXZpMmZ5cS1jalQyWXdxRkZqekc4SkZweXBFbXdHdjJVbGRiZDNSYzM1N3d2QkRtaXF3RlRTTklWeUJEMFdkS3lfRmg4bjJ5Wms4SUo0MnlBMktGUk9BVHRQR1hESmEwdzU2dllQYTlicDVwZkU4cUpveHBHc3Z2b3R6LUpDekxUZVFjemtRd3N5ZTJxSThxT3N2S2VnM2pQalNKekJheUJfQmhUWERxd3ZWdjJaeXBZS2VPSkFNdEtCYVpzRGFReER5SWc3TXc1SnlEc01oQ3VhQmpB?oc=5",
+   "fuente": "El Espectador",
+   "tipo": "prensa",
+   "destacada": false,
+   "primeraVez": "2026-11-20T21:28:54.102Z",
+   "titulo_en": "The debate on the future of Caquetá and Putumayo that has laid the groundwork for the National Development Plan (PND)"
+  },
+  {
+   "id": "prensa-zv92my",
+   "titulo": "Asegurar agua y energía, los desafíos de Colombia más allá de El Niño",
+   "resumen": "",
+   "fecha": "2026-11-19T14:00:00.000Z",
+   "imagen": "https://www.bing.com/th?id=ONUT.qrDamxm2e5MS45haAXLyVA&pid=News",
+   "credito": "© El Espectador on MSN",
+   "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMGZqNnRacFhuTERwQzNVU2tyMW8xakRIcDZFeWxBRWVLRmxEWm1fVkp0YVFfemtJSHlCeEc5WGtrdzVpRU5uMk8tQ3Q2blF2Q3NqTHFUbE1pSDRUV1ViNjRWSjdQNzBWMXlraFFmVXZTSTgwMlJvOXFWaksxVzBiY0oyQ2dobzFSUGhFQjZiVmFFSnZDY3pJ0gGrAUFVX3lxTE9zTlVQMEg3UUdJMklvRU9QbmlmTGJhQ3EtSFdCbzhWYzEyX2k0RkVwaUpqeTFYV2lBeGZKaFRHaTk2YmVJcnlmQjBCd20tUHIzR0FqOG12aUFld3dUT1otZUltWkN1em5HeGh4M216WktXaldIVXU3alZPTllWLTVPZ3BRUnFSQ04zZWFET0Z0ZzhvVVF0Y2pYRkFVLU9ZVzAyYnE2cjl2VU1wWQ?oc=5",
+   "fuente": "El Espectador",
+   "tipo": "prensa",
+   "destacada": false,
+   "primeraVez": "2026-11-20T21:28:54.102Z",
    "titulo_en": "Securing water and energy: Colombia's challenges beyond El Niño"
   },
   {
@@ -548,20 +577,6 @@
    "titulo_en": "El Niño triggers water and energy alerts in Colombia"
   },
   {
-   "id": "prensa-uj0eol",
-   "titulo": "Fenómeno de El Niño: Colombia busca asegurar meta de los embalses para evitar riesgos en la energía",
-   "resumen": "",
-   "fecha": "2026-11-11T19:11:03.000Z",
-   "imagen": "",
-   "credito": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMmxETm5wODFGUWZlVW1rR0t4MEJxUGZudXBJcUhhSGFOVkNPTWhBSUJqVlhPdkoxUDViSEFnalI3VDRDY3pfRFZOdl8tWmFZMVh3TXE4bjc0QUEtN3d5UUxtNEZMcUlYTXp6ODY2NHYzbHlBTzZubXRFVkNsR3ZjUzU2MWlFdko4LWZnajY4aWpfMTVoOGJDdEJCZ3BmcWhsQUpSYjBtdThESG1SbjY5eDNlVFIyWndTSjRTN1d6aVBhZk5ldk55NlMySGdYMWV20gHeAUFVX3lxTE5kNWNONlhBalpSMWtNQ0dFUXBIRmZxYU5TTVBlRkhmTnhNMVhyR2FQYU5RZUlDT1lkSGpQSEFMVVEtaFR1d0I3M3hkWTFjRi1yYlFYQmVUa0doenNrTnJ4ZzB1dUxYVk1aeHFYU1dLOVlNbnV2UlhBbDctZjJBYzIwYTU2QnBoM3JPVExpSjBJemZseXVPTnNZT0xVSTktSlVKUm1KVFk0RnJOdndjQjlYNF9OdGotRlp6anlkUi1yM2xGOEl1amdMaEw1YUxJazZrXy1MU21vNW5QTElPUQ?oc=5",
-   "fuente": "Blu Radio",
-   "tipo": "prensa",
-   "destacada": false,
-   "primeraVez": "2026-11-14T10:07:14.616Z",
-   "titulo_en": "El Niño phenomenon: Colombia seeks to ensure reservoir targets to avoid energy risks"
-  },
-  {
    "id": "prensa-155bxii",
    "titulo": "Fenómeno de El Niño aumenta la preocupación por el futuro del agua y los embalses en Colombia",
    "resumen": "",
@@ -590,10 +605,24 @@
    "titulo_en": "Colombia has 5% of the world's renewable freshwater"
   },
   {
+   "id": "prensa-uj0eol",
+   "titulo": "Fenómeno de El Niño: Colombia busca asegurar meta de los embalses para evitar riesgos en la energía",
+   "resumen": "",
+   "fecha": "2026-11-11T08:00:00.000Z",
+   "imagen": "",
+   "credito": "",
+   "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMmxETm5wODFGUWZlVW1rR0t4MEJxUGZudXBJcUhhSGFOVkNPTWhBSUJqVlhPdkoxUDViSEFnalI3VDRDY3pfRFZOdl8tWmFZMVh3TXE4bjc0QUEtN3d5UUxtNEZMcUlYTXp6ODY2NHYzbHlBTzZubXRFVkNsR3ZjUzU2MWlFdko4LWZnajY4aWpfMTVoOGJDdEJCZ3BmcWhsQUpSYjBtdThESG1SbjY5eDNlVFIyWndTSjRTN1d6aVBhZk5ldk55NlMySGdYMWV20gHeAUFVX3lxTE5kNWNONlhBalpSMWtNQ0dFUXBIRmZxYU5TTVBlRkhmTnhNMVhyR2FQYU5RZUlDT1lkSGpQSEFMVVEtaFR1d0I3M3hkWTFjRi1yYlFYQmVUa0doenNrTnJ4ZzB1dUxYVk1aeHFYU1dLOVlNbnV2UlhBbDctZjJBYzIwYTU2QnBoM3JPVExpSjBJemZseXVPTnNZT0xVSTktSlVKUm1KVFk0RnJOdndjQjlYNF9OdGotRlp6anlkUi1yM2xGOEl1amdMaEw1YUxJazZrXy1MU21vNW5QTElPUQ?oc=5",
+   "fuente": "Blu Radio",
+   "tipo": "prensa",
+   "destacada": false,
+   "primeraVez": "2026-11-14T10:07:14.616Z",
+   "titulo_en": "El Niño phenomenon: Colombia seeks to ensure reservoir targets to avoid energy risks"
+  },
+  {
    "id": "prensa-kkku03",
    "titulo": "Cacao colombiano: el fruto de la paz y la especialidad",
    "resumen": "",
-   "fecha": "2026-11-10T16:48:00.000Z",
+   "fecha": "2026-11-10T08:00:00.000Z",
    "imagen": "",
    "credito": "",
    "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VTTAyU0pudkwxWlBUVTgtRXZ4VHU2Nk5nd3VlTFc5SzYzeTRLWGhBUEZrR0NScXVCZWtPbllqZEpsNFgxc0lvWVVTVFcySktubDdGNDhzQmRhdmdjU3lnY1JqMHRQallCZGR6QUFGb2Fab2J0REZTZnlRZw?oc=5",
@@ -1456,34 +1485,6 @@
    "destacada": false,
    "primeraVez": "2026-10-24T01:44:27.869Z",
    "titulo_en": "Wildlife populations continue to fall and Latin America bears the brunt"
-  },
-  {
-   "id": "prensa-ejjxyh",
-   "titulo": "Informe Planeta Vivo 2026 de WWF",
-   "resumen": "",
-   "fecha": "2026-10-07T07:00:00.000Z",
-   "imagen": "",
-   "credito": "",
-   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT3ZIQjg5R01oeGZWZHNLcEU4aGtta2xFYkZjOWQ3NWk4OXU0RGxiR0tMRVktZlpxUHNoZmJhMl9TOFpJSjF0UFNZYnhKbEJUTkFBZGdzVzJldDZoUXBxcVIzUmwzY0k0aHhuenhpLUdmNGpXbTRsSkZxTV95WEEzSWpWd3N2Q1FoRDJrUXl5RnFYZldTLUVFaEloYw?oc=5",
-   "fuente": "World Wildlife Fund",
-   "tipo": "prensa",
-   "destacada": false,
-   "primeraVez": "2026-10-31T20:13:31.834Z",
-   "titulo_en": "WWF Living Planet Report 2026"
-  },
-  {
-   "id": "prensa-xomhm8",
-   "titulo": "Johan, de Putumayo, ganó la final de Sabiduría Salvaje en Medellín: el adolescente más pilo del país en biodiversidad",
-   "resumen": "",
-   "fecha": "2026-10-05T07:00:00.000Z",
-   "imagen": "",
-   "credito": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOd055R0JuU1pPWVZrcmRVNnJGbmotMUpVSnlPUVFabzJoU1pXRU1VaFBzSWFoQ0ZhUnJhMmlUaldtVXpkRDdIa0VRZ2E4b1dfSUNIMVJlZUNTR0tGcEMtcnMwZEZYel9MeU5EZ2c0WHI3clBDUHNyZ0FpRW8xOFVRVnI2NjBfTFI4bDlMRVd0cFBzNGR1Sm1ySkRDcTVwdjNZdXNxVldIcWUzeG5JUFlBTlB2b0hISi0zRWVFbTdCQmpwLVJ1UVM2RENpTXp1ZlVFX2hsNEF3YU41Y2xrdjZCY3o4blZzQ2I0T3doN1N4TTFFeXRlajB3SFljVDZtSXM?oc=5",
-   "fuente": "Alcaldía de Medellín",
-   "tipo": "prensa",
-   "destacada": false,
-   "primeraVez": "2026-10-24T01:44:27.869Z",
-   "titulo_en": "Johan, from Putumayo, won the Wild Wisdom final in Medellín: the country's most pilot adolescent in biodiversity"
   }
  ],
  "videos": [
@@ -1566,7 +1567,7 @@
    "fecha": "2026-10-16T17:31:41+00:00",
    "canal": "WWF Colombia",
    "titulo_en": "After being looted, the turtles return to their nests",
-   "resumen_en": "For years, green turtle nests were raided and the hatchlings were left unprotected. But hope has its own form of patience. Communities protected and restored nesting beaches, while"
+   "resumen_en": "For years, green sea turtle nests were raided and the hatchlings were left unprotected. But hope has its own form of patience. Communities protected and restored nesting beaches, while"
   },
   {
    "id": "ax4XzEjgk7w",
