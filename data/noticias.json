@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-11-21T17:55:06.008Z",
- "actualizadoBogota": "21 de noviembre de 2026 a las 12:55 p. m.",
+ "actualizado": "2026-11-21T22:55:24.223Z",
+ "actualizadoBogota": "21 de noviembre de 2026 a las 5:55 p. m.",
  "fuentes": {
   "wwfInicio": "error: bloqueado y sin respaldo",
   "wwfNoticias": "error: sitio no disponible en esta corrida",
   "wwfRSS": "error: sitio no disponible en esta corrida",
-  "prensa": 6,
+  "prensa": 7,
   "prensaBing": 12,
   "prensaAmbiente": 7,
   "notasAbiertas": 0,
@@ -14,13 +14,12 @@
   "fotosGaleria": 80,
   "videosCanal": 24,
   "traducciones": 4,
-  "errorTraduccion": "google: HTTP 429",
   "rutas": {
    "news.google.com": "directo",
    "www.bing.com": "directo",
    "www.youtube.com": "directo"
   },
-  "segundos": 59
+  "segundos": 43
  },
  "wwf": [
   {
@@ -1567,7 +1566,7 @@
    "fecha": "2026-10-16T17:31:41+00:00",
    "canal": "WWF Colombia",
    "titulo_en": "After being looted, the turtles return to their nests",
-   "resumen_en": "For years, green turtle nests were raided and the hatchlings were left unprotected. But hope has its own form of patience. Communities protected and restored nesting beaches, while"
+   "resumen_en": "For years, green turtle nests were raided and hatchlings were left unprotected. But hope has its own form of patience. Communities protected and restored nesting beaches, while"
   },
   {
    "id": "ax4XzEjgk7w",
@@ -1603,7 +1602,7 @@
    "fecha": "2026-10-07T23:24:49+00:00",
    "canal": "WWF Colombia",
    "titulo_en": "Why is it raining so much and so hard? ⛈️",
-   "resumen_en": "Why is it raining so much and so heavily in the midst of the El Niño phenomenon?🔥⛈️🏜️🌡️ And what should we expect for the rest of the year? Our Director of Conservation and Governance, Carlos Mauricio Herrera, explains."
+   "resumen_en": "Why is it raining so much and so hard in the middle of the El Niño Phenomenon?🔥⛈️🏜️🌡️ And what should we expect for the rest of the year? Our Director of Conservation and Governance, Carlos Mauricio Herrera, explains it."
   },
   {
    "id": "m1g-T1h5cLs",
@@ -1711,7 +1710,7 @@
    "fecha": "2024-06-17T11:26:11+00:00",
    "canal": "WWF Colombia",
    "titulo_en": "A Peace-Building Experience With Nature in the Amazon Forest",
-   "resumen_en": "The Protected Areas & Peace program is a determined and joint commitment to this recovery of the territory with the help of rural communities and their economic development. Thanks to this process, families have changed."
+   "resumen_en": "The Protected Areas & Peace program is a determined and joint commitment to this recovery of the territory with the help of rural communities and their economic development. Thanks to this process, families have changed"
   },
   {
    "id": "Y_fdynBIm2k",
@@ -1729,7 +1728,7 @@
    "fecha": "2023-10-12T19:52:57+00:00",
    "canal": "WWF Colombia",
    "titulo_en": "The Story of Elsy | Before and After Conservation | WWF Colombia",
-   "resumen_en": "For over 30 years, Elsy Alvear has dedicated herself to bringing a once-barren mountain back to life. Her motivation has been to repair the damage caused by extractive activities for which she and her family were responsible."
+   "resumen_en": "For over 30 years, Elsy Alvear has dedicated herself to bringing eleven barren mountains back to life. Her motivation has been to repair the damage caused by extractive activities that she and her family were responsible for"
   },
   {
    "id": "hKe4LPgTUww",
