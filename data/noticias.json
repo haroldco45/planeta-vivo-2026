@@ -1,26 +1,26 @@
 {
- "actualizado": "2026-11-23T06:40:33.936Z",
- "actualizadoBogota": "23 de noviembre de 2026 a las 1:40 a. m.",
+ "actualizado": "2026-11-23T19:05:06.420Z",
+ "actualizadoBogota": "23 de noviembre de 2026 a las 2:05 p. m.",
  "fuentes": {
   "wwfInicio": "error: bloqueado y sin respaldo",
   "wwfNoticias": "error: sitio no disponible en esta corrida",
   "wwfRSS": "error: sitio no disponible en esta corrida",
-  "prensa": 8,
+  "prensa": 9,
   "prensaBing": 12,
-  "prensaAmbiente": 8,
+  "prensaAmbiente": 9,
   "notasAbiertas": 0,
   "fotosPrensa": 5,
   "paginasConFoto": 0,
   "fotosGaleria": 80,
   "videosCanal": 24,
-  "traducciones": 4,
+  "traducciones": 5,
   "errorTraduccion": "google: HTTP 429",
   "rutas": {
    "news.google.com": "directo",
    "www.bing.com": "directo",
    "www.youtube.com": "directo"
   },
-  "segundos": 59
+  "segundos": 62
  },
  "wwf": [
   {
@@ -395,6 +395,20 @@
  ],
  "prensa": [
   {
+   "id": "prensa-bx88g8",
+   "titulo": "COP31: negociaciones concluyen sin avances en la eliminación progresiva de combustibles fósiles",
+   "resumen": "",
+   "fecha": "2026-11-23T15:54:39.000Z",
+   "imagen": "",
+   "credito": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQekYybnN6Q0xTYkUzM2FURkNlX1dUcF85X1cyRHJCNzVOTElOakZtRnRscXY3dzZsTk92NXJSU0hHR0VIYjlTd1pjX0FueHNTOFVTWU9HYTgybUxabnJaZ0VkNHJqdnB0X1IyTXNoLWJWVXJ5aDROcUJWN1p1OXBaMmFwWFJZczFh?oc=5",
+   "fuente": "WWF Colombia",
+   "tipo": "prensa",
+   "destacada": false,
+   "primeraVez": "2026-11-23T19:05:06.420Z",
+   "titulo_en": "COP31: Negotiations conclude without progress on the phase-out of fossil fuels"
+  },
+  {
    "id": "prensa-oh4xj6",
    "titulo": "Una amenaza sin fronteras: cinco países refuerzan la protección de las ballenas en el Pacífico",
    "resumen": "",
@@ -524,7 +538,7 @@
    "id": "prensa-1mtwej8",
    "titulo": "Colombia presenta propuestas sobre carbono en COP31",
    "resumen": "",
-   "fecha": "2026-11-16T03:37:11.000Z",
+   "fecha": "2026-11-15T08:00:00.000Z",
    "imagen": "",
    "credito": "",
    "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZW4tSlpGajZQS2x4QWlOUHFBbmpOMUtjbGlOQ051X0ROSklyUHUtM3I3MEpSUFlYc1NMMWtfdFJIcDdFdGRTMkFscUFmS3FaZGpsVFJSNXlmd0ZBNDZ6b21sak1PRE1JWWF0QW54c2Fsd2puQ19Jb18yNllJTlpKeE1aWVU5V3BPN2pOQjh0STZ2RWdKMWRuZQ?oc=5",
@@ -577,20 +591,6 @@
    "titulo_en": "El Niño triggers water and energy alerts in Colombia"
   },
   {
-   "id": "prensa-155bxii",
-   "titulo": "Fenómeno de El Niño aumenta la preocupación por el futuro del agua y los embalses en Colombia",
-   "resumen": "",
-   "fecha": "2026-11-11T17:38:27.000Z",
-   "imagen": "",
-   "credito": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHdBV3prVk84N1lBTDIwaWU5M3JXQ3FFdTFrQnMtZG5rTHhpYlpHWmhnaGR5cXI1Q1lXNXUwT3dkT042VkJfeHE5ODlwQXVxS1FmeUtxWU1uTlBGbVhQYVdDZWVqbDhmV0tscGdzdXBjb0RSb1Z2MHVRbjdHckI2aUkwQlJEc3B1azgtVWxaOVdHWDBCaXNhOVdFbWVBZkQ4TEMwTENVRUFyRGPSAasBQVVfeXFMUFZNcXVkWG1FbVBaX1QwMm9ocXVJci1uaFZnWkZGNXVPOVZ0SlRjOTRZUHpyTWVUY2FySmlDemY2OFFPVHdfSnRDUWEzcTVMNkI3N2psUkJGanZIMUt5N0Nkem52RHo2b1NWSkdxZmNRaGhCbnk5VzFXelAxR3lNS3Fqd0Y4TmotSE9RbEYtOUVVU05qd2d3T0trYjVYYXIyUmtRR2tRcTFNeXJN?oc=5",
-   "fuente": "La FM",
-   "tipo": "prensa",
-   "destacada": false,
-   "primeraVez": "2026-11-15T20:56:18.049Z",
-   "titulo_en": "The El Niño phenomenon increases concerns about the future of water and reservoirs in Colombia"
-  },
-  {
    "id": "prensa-1y9d4vi",
    "titulo": "Colombia tiene el 5 % del agua dulce renovable del mundo",
    "resumen": "",
@@ -603,6 +603,20 @@
    "destacada": false,
    "primeraVez": "2026-11-11T22:37:32.211Z",
    "titulo_en": "Colombia has 5% of the world's renewable freshwater"
+  },
+  {
+   "id": "prensa-155bxii",
+   "titulo": "Fenómeno de El Niño aumenta la preocupación por el futuro del agua y los embalses en Colombia",
+   "resumen": "",
+   "fecha": "2026-11-11T08:00:00.000Z",
+   "imagen": "",
+   "credito": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHdBV3prVk84N1lBTDIwaWU5M3JXQ3FFdTFrQnMtZG5rTHhpYlpHWmhnaGR5cXI1Q1lXNXUwT3dkT042VkJfeHE5ODlwQXVxS1FmeUtxWU1uTlBGbVhQYVdDZWVqbDhmV0tscGdzdXBjb0RSb1Z2MHVRbjdHckI2aUkwQlJEc3B1azgtVWxaOVdHWDBCaXNhOVdFbWVBZkQ4TEMwTENVRUFyRGPSAasBQVVfeXFMUFZNcXVkWG1FbVBaX1QwMm9ocXVJci1uaFZnWkZGNXVPOVZ0SlRjOTRZUHpyTWVUY2FySmlDemY2OFFPVHdfSnRDUWEzcTVMNkI3N2psUkJGanZIMUt5N0Nkem52RHo2b1NWSkdxZmNRaGhCbnk5VzFXelAxR3lNS3Fqd0Y4TmotSE9RbEYtOUVVU05qd2d3T0trYjVYYXIyUmtRR2tRcTFNeXJN?oc=5",
+   "fuente": "La FM",
+   "tipo": "prensa",
+   "destacada": false,
+   "primeraVez": "2026-11-15T20:56:18.049Z",
+   "titulo_en": "The El Niño phenomenon increases concerns about the future of water and reservoirs in Colombia"
   },
   {
    "id": "prensa-uj0eol",
@@ -1471,20 +1485,6 @@
    "destacada": false,
    "primeraVez": "2026-10-24T01:44:27.869Z",
    "titulo_en": "Latin America takes a step to legally combat ecocide"
-  },
-  {
-   "id": "prensa-1n2wdk5",
-   "titulo": "Las poblaciones de especies silvestres siguen cayendo y América Latina lleva la peor parte",
-   "resumen": "",
-   "fecha": "2026-10-07T07:00:00.000Z",
-   "imagen": "",
-   "credito": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMGJkZ0UtSTN2UGFEempNVm9MWVN0SEhRSDN6dVJHMHh2RHNuU1B3akF3aWFjUnYyWFhUYTdjYXRQaEFrZDBwYkFKTWZNSkZKelBfYXp0RHgtNTZkdWxwNjFTUHlnb3hVQllPMURjQ04xN2N6YVc3dGpWdmM3ckpkY2hnaW5IbWw2MmItSzVuSXd5X25aMVJEcWxLSlZaelFTMDJfQlIxUWdRUVFGRW9uMEZlZjVPaVo0T093UTRmZVloN2FUUDdSdTVPUGp1ZldYN1NiY3VFc9IB6wFBVV95cUxPdHo1VnVucVpSc2c2ZlJFT3hjXzVKaFlkZmtWc0JoeHl3TFZfN2FLdUdXWTlVbG8zQWlFa1l4czAxQlRmeUlOOFlhSkpCUHd2NDBEMXVmUUlvVHRBaVBBVm96QjV6NjdWSU1FdWFtbXdKbWQ1bHFhY1hFQTZWMmJCbGFaWEJIYVByTlNsYzJwMFI5RTFzRlRHMTJIWWk2ZkE2LTczY05SeHJGVTBKNktMd211S0c0cE9SWHRqY2pCV1FOX0RqWE45d2ZTYWdrRmNwMjRZTVFPVDB3VnBnSFQtaTZZZm1IZ2x4NldZ?oc=5",
-   "fuente": "EL PAÍS",
-   "tipo": "prensa",
-   "destacada": false,
-   "primeraVez": "2026-10-24T01:44:27.869Z",
-   "titulo_en": "Wildlife populations continue to fall and Latin America bears the brunt"
   }
  ],
  "videos": [
@@ -1567,7 +1567,7 @@
    "fecha": "2026-10-16T17:31:41+00:00",
    "canal": "WWF Colombia",
    "titulo_en": "After being looted, the turtles return to their nests",
-   "resumen_en": "For years, green sea turtle nests were raided and the hatchlings were left unprotected. But hope has its own form of patience. Communities protected and restored nesting beaches, while"
+   "resumen_en": "For years, green turtle nests were raided and the hatchlings were left unprotected. But hope has its own form of patience. Communities protected and restored nesting beaches, while"
   },
   {
    "id": "ax4XzEjgk7w",
