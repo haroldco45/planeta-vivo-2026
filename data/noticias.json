@@ -1,26 +1,26 @@
 {
- "actualizado": "2026-11-23T19:05:06.420Z",
- "actualizadoBogota": "23 de noviembre de 2026 a las 2:05 p. m.",
+ "actualizado": "2026-11-24T04:23:39.178Z",
+ "actualizadoBogota": "23 de noviembre de 2026 a las 11:23 p. m.",
  "fuentes": {
   "wwfInicio": "error: bloqueado y sin respaldo",
   "wwfNoticias": "error: sitio no disponible en esta corrida",
   "wwfRSS": "error: sitio no disponible en esta corrida",
-  "prensa": 9,
+  "prensa": 32,
   "prensaBing": 12,
-  "prensaAmbiente": 9,
+  "prensaAmbiente": 11,
   "notasAbiertas": 0,
   "fotosPrensa": 5,
   "paginasConFoto": 0,
   "fotosGaleria": 80,
   "videosCanal": 24,
-  "traducciones": 5,
+  "traducciones": 11,
   "errorTraduccion": "google: HTTP 429",
   "rutas": {
    "news.google.com": "directo",
    "www.bing.com": "directo",
    "www.youtube.com": "directo"
   },
-  "segundos": 62
+  "segundos": 69
  },
  "wwf": [
   {
@@ -395,10 +395,24 @@
  ],
  "prensa": [
   {
-   "id": "prensa-bx88g8",
-   "titulo": "COP31: negociaciones concluyen sin avances en la eliminación progresiva de combustibles fósiles",
+   "id": "prensa-l2fd2z",
+   "titulo": "Nuevas especies en Colombia sorprenden a los científicos hoy",
    "resumen": "",
-   "fecha": "2026-11-23T15:54:39.000Z",
+   "fecha": "2026-11-23T21:01:05.000Z",
+   "imagen": "",
+   "credito": "",
+   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOFNvekswcGxFemYyRG1MWUN6b0NkNFVRSFlJZ0dOeGxOREpRT2hTbENHdTdlWTVvSThWQzRRczA0b1ZQZzZ4RXQwanp2RU8zZDVIMnVEeDRFZk96aXFXZWxPSmx6RGtFUzVySTFhVlpHV3RwWXh4cFVRR0l6WVl5Tm1TQk9KQU12UmxUZFlVS3JOWTlGZ3oxMVhuMUdndkN6?oc=5",
+   "fuente": "Diario del Cauca",
+   "tipo": "prensa",
+   "destacada": false,
+   "primeraVez": "2026-11-24T04:23:39.178Z",
+   "titulo_en": "New species in Colombia surprise scientists today"
+  },
+  {
+   "id": "prensa-bx88g8",
+   "titulo": "COP31: resultados insuficientes para responder a urgencia climática y abandonar combustibles fó",
+   "resumen": "",
+   "fecha": "2026-11-23T17:23:57.000Z",
    "imagen": "",
    "credito": "",
    "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQekYybnN6Q0xTYkUzM2FURkNlX1dUcF85X1cyRHJCNzVOTElOakZtRnRscXY3dzZsTk92NXJSU0hHR0VIYjlTd1pjX0FueHNTOFVTWU9HYTgybUxabnJaZ0VkNHJqdnB0X1IyTXNoLWJWVXJ5aDROcUJWN1p1OXBaMmFwWFJZczFh?oc=5",
@@ -406,7 +420,35 @@
    "tipo": "prensa",
    "destacada": false,
    "primeraVez": "2026-11-23T19:05:06.420Z",
-   "titulo_en": "COP31: Negotiations conclude without progress on the phase-out of fossil fuels"
+   "titulo_en": "COP31: Insufficient results to address the climate emergency and phase out fossil fuels"
+  },
+  {
+   "id": "prensa-sz47pc",
+   "titulo": "El aguacate que conecta empresarios, políticos, bancos y paraísos fiscales",
+   "resumen": "",
+   "fecha": "2026-11-22T10:31:51.000Z",
+   "imagen": "",
+   "credito": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVkpHQ1lndV85MEtqYkU0SDZUS1FIQ3JNV2JLYnAxVlRFeHBYV0FVZWpCN3V4TURnWkl2eXhWQmpTQ3gxckVydG5oOEVTX0djOGlzZkptSWZqWkQxU0NibFVPSVpIY0xGNlZvN3VTN3Z1aGswb1dBZUNIdHA1eHJwZFJncUlfYU1rSW1xRUlPamtXemVMa3hOZWppd1F6Ums4VTB3Z2JTS2Fsb2J5c3FuMko5cEFwQ1JF?oc=5",
+   "fuente": "Vorágine - Periodismo Contracorriente",
+   "tipo": "prensa",
+   "destacada": false,
+   "primeraVez": "2026-11-24T04:23:39.178Z",
+   "titulo_en": "The avocado that connects businesspeople, politicians, banks, and tax havens"
+  },
+  {
+   "id": "prensa-pn6q2u",
+   "titulo": "El debate por el futuro de Caquetá y Putumayo que han generado las bases del PND",
+   "resumen": "",
+   "fecha": "2026-11-20T21:56:26.000Z",
+   "imagen": "",
+   "credito": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRE9kUG9ZdTRjRXhXcHB3SnJobWZrdURVaUZXOVNoLWpYRU9rLVNCa3BDekdCY3RmajFxSWFWWXpuZlYtZ2ZrdnN5Z3JOa2N2TW01WGNhM2ZhOEg1djd3NnlpV1ZsZTkydXppdU9YVXlyY1Y4T2lzM2ZrTks5S3VxYjFzOEtmX21aZXh6d21BclpVX1FSQlBDRG5uOEgteHlST2NpT25rdEw4MWFCMlM1WllibGFIbm5GMkE?oc=5",
+   "fuente": "MiPutumayo Noticias",
+   "tipo": "prensa",
+   "destacada": false,
+   "primeraVez": "2026-11-24T04:23:39.178Z",
+   "titulo_en": "The debate on the future of Caquetá and Putumayo that has laid the foundations for the National Development Plan (PND)"
   },
   {
    "id": "prensa-oh4xj6",
@@ -423,18 +465,18 @@
    "titulo_en": "A threat without borders: Five countries strengthen the protection of whales in the Pacific"
   },
   {
-   "id": "prensa-zgga3g",
-   "titulo": "El debate por el futuro de Caquetá y Putumayo que han generado las bases del PND",
+   "id": "prensa-16170jd",
+   "titulo": "WWF exige un refuerzo de medios para frenar el deterioro del acuífero de Doñana",
    "resumen": "",
-   "fecha": "2026-11-20T01:55:50.000Z",
+   "fecha": "2026-11-19T15:17:00.000Z",
    "imagen": "",
    "credito": "",
-   "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdmkyZnlxLWNqVDJZd3FGRmp6RzhKRnB5cEVtd0d2MlVsZGJkM1JjMzU3d3ZCRG1pcXdGVFNOSVZ5QkQwV2RLeV9GaDhuMnlaazhJSjQyeUEyS0ZST0FUdFBHWERKYTB3NTZ2WVBhOWJwNXBmRThxSm94cEdzdnZvdHotSkN6TFRlUWN6a1F3c3llMnFJOHFPc3ZLZWczalBqU0p6QmF5Ql9CaFRYRHF3dlZ2Mlp5cFlLZU9KQU10S0JhWnNEYVF4RHlJZzdNdzVKeURzTWhDdWFCakHSAdsBQVVfeXFMTXZpMmZ5cS1jalQyWXdxRkZqekc4SkZweXBFbXdHdjJVbGRiZDNSYzM1N3d2QkRtaXF3RlRTTklWeUJEMFdkS3lfRmg4bjJ5Wms4SUo0MnlBMktGUk9BVHRQR1hESmEwdzU2dllQYTlicDVwZkU4cUpveHBHc3Z2b3R6LUpDekxUZVFjemtRd3N5ZTJxSThxT3N2S2VnM2pQalNKekJheUJfQmhUWERxd3ZWdjJaeXBZS2VPSkFNdEtCYVpzRGFReER5SWc3TXc1SnlEc01oQ3VhQmpB?oc=5",
-   "fuente": "El Espectador",
+   "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSUJFYkJzMmJ0TWQ2UDlVS0dWNHpERXRqNWtIUFRMSjBsTjNFbkwtZGNGaVdGRDF5VnJ6T3ItaTc0XzhaOHZYM1pqWlYzVkhKRVpMMTZaQ2t1M1NtYXg4SUl3cl9Mbms3R3hzUklrQ1B5MFpwOG9nVUV3eUVDaGZ0Tmh6Sl9vU0RmREtERjZiVnJkUU9ia3VDUGlIVVEzQTlGZTNMRzBBdDFacDRfaFB5ZElOdDJKWkUtcE5QNzllNHhNanVTVGNtRHQ5SdIB5gFBVV95cUxNNlhUUUNoeVgyTDcxdkxsNURXMW5VV0NhTXNVMFRZZTJWSUdWcmZnTmZFZ1ZkNkpQNVdHaGM1dGFwRDJDV1VKWHg5eFBKR1dYRllVaWg2OU8tYUdNLU1vN3BmTXVjUVNWVmVlMXY1YWV1ZGU5aTUzbzZTc3VpOUlnZnNNRTNWbllpb1kxY21mZlMxX3Z2RlF0emx6V283VXU4TUd5SGliZWVQLXFGRDZfQWRzR0h5N1JIOHM3NHI0dTJ6YVMtNWNmamFtVW1LaUE4bEliaTI2X1BFUXRVZFpHMENqdFRsQQ?oc=5",
+   "fuente": "Infobae",
    "tipo": "prensa",
    "destacada": false,
-   "primeraVez": "2026-11-20T21:28:54.102Z",
-   "titulo_en": "The debate on the future of Caquetá and Putumayo that has laid the groundwork for the National Development Plan (PND)"
+   "primeraVez": "2026-11-24T04:23:39.178Z",
+   "titulo_en": "WWF calls for more resources to halt the deterioration of the Doñana aquifer"
   },
   {
    "id": "prensa-zv92my",
@@ -521,17 +563,17 @@
    "titulo_en": "It could take up to 40 years to restore the burned forests in Huila"
   },
   {
-   "id": "prensa-1xc14h7",
+   "id": "prensa-1amca3u",
    "titulo": "Día de las Áreas Protegidas: la oportunidad que ofrecen las OMEC para ampliar el alcance de la conservación",
    "resumen": "",
-   "fecha": "2026-11-16T13:05:53.000Z",
+   "fecha": "2026-11-16T13:07:18.000Z",
    "imagen": "",
    "credito": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNamN4bnhETXJadUJTS0FlVVpETVhadWhYTnZ1Mks5VkczbTVqUUhSVThINk45RW5SQWdWZUJ1aGJEZ0hNV1ctOU5KcllIUDlUQmN5UXpSN05YVldva1RtUm1XcTNPSW5MeHhwM3FFcV9mbVFXeUhrSldJMUQtZHBOeE9mNFY1RkdWMl9zdktQV0hlY2NuU05uUHVicVc5cVFjLXY0MXFwd0pVU2FXb0J5SUc0Y2JFT0pRbmlncVlNNGZHR19GSnI4Tw?oc=5",
-   "fuente": "El MorroCotudo",
+   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbmFxNlA4WVdNS0FhRUdZemZvTlIyeHlpMUZUMVJzQ290UGdFQXVpSDJaTmtUNzVWTmhJdEY4NEFaNlJZOVJhYVdKTFQzREJJU1FBMU9IdDk5S2ZGTFlicE5pblh6RS1LVV8zMUc3Mlp1VTJqcnllcnVWdEE2ejd0bHhwODViZ3pDb1hwaWhnYUhxdENYbWJsTEk1NExyc2JPVHhwVmd3cEU5RHlUZ3lOX2htR1p2VnZrVTk4Nlc1NzJjZw?oc=5",
+   "fuente": "La Opiñon.cl, Noticias de Temuco y Araucanía",
    "tipo": "prensa",
    "destacada": false,
-   "primeraVez": "2026-11-17T01:59:11.253Z",
+   "primeraVez": "2026-11-24T04:23:39.178Z",
    "titulo_en": "Protected Areas Day: The Opportunity Offered by OECMs to Expand the Reach of Conservation"
   },
   {
@@ -801,6 +843,20 @@
    "titulo_en": "Claudia Bahamón confessed what she can't stand on \"MasterChef Celebrity\" and why it makes her angry: \"I'm like a monkey.\""
   },
   {
+   "id": "prensa-ojr98s",
+   "titulo": "Carlos Mario Guerrero llegó al segundo lugar nacional en Sabiduría Salvaje 2026",
+   "resumen": "",
+   "fecha": "2026-11-03T03:00:00.000Z",
+   "imagen": "",
+   "credito": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2JpLTBZcnlMSHZVdElpdnFkREZxd3hCNTdWX25nUzcwVHNDV2dXNW5iZ3lwd3d1eURZQ1FLczhteUliZFJnSVVZTjdkSmpLaWFaeHBBdEc4UXo1am1kM0NFelRtbkNObm1tblVCODNUOHBHaEhpNUpmMEgwc2w1d3VrNHBna0V4RERVNU12Zk1mei0wMUo0Wm5OZVlSblhMdmlROURrakJLRFIzU3I2TW5DdHNTd2x1X2s2d19NMEtYSXc?oc=5",
+   "fuente": "ELHERALDO.CO",
+   "tipo": "prensa",
+   "destacada": false,
+   "primeraVez": "2026-11-18T19:19:03.472Z",
+   "titulo_en": "Carlos Mario Guerrero took second place nationally in Wild Wisdom 2026"
+  },
+  {
    "id": "prensa-15wh74b",
    "titulo": "COP17 cierra con casi US$ 2000 millones para biodiversidad, pero advierte que el mundo sigue lejos de cumplir las metas fijadas para 2030",
    "resumen": "",
@@ -813,20 +869,6 @@
    "destacada": false,
    "primeraVez": "2026-11-14T21:14:45.328Z",
    "titulo_en": "COP17 closes with nearly $2 billion for biodiversity, but warns that the world is still far from meeting the targets set for 2030"
-  },
-  {
-   "id": "prensa-ojr98s",
-   "titulo": "Carlos Mario Guerrero llegó al segundo lugar nacional en Sabiduría Salvaje 2026",
-   "resumen": "",
-   "fecha": "2026-11-02T08:00:00.000Z",
-   "imagen": "",
-   "credito": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2JpLTBZcnlMSHZVdElpdnFkREZxd3hCNTdWX25nUzcwVHNDV2dXNW5iZ3lwd3d1eURZQ1FLczhteUliZFJnSVVZTjdkSmpLaWFaeHBBdEc4UXo1am1kM0NFelRtbkNObm1tblVCODNUOHBHaEhpNUpmMEgwc2w1d3VrNHBna0V4RERVNU12Zk1mei0wMUo0Wm5OZVlSblhMdmlROURrakJLRFIzU3I2TW5DdHNTd2x1X2s2d19NMEtYSXc?oc=5",
-   "fuente": "ELHERALDO.CO",
-   "tipo": "prensa",
-   "destacada": false,
-   "primeraVez": "2026-11-18T19:19:03.472Z",
-   "titulo_en": "Carlos Mario Guerrero took second place nationally in Wild Wisdom 2026"
   },
   {
    "id": "prensa-am4dm8",
@@ -869,6 +911,20 @@
    "destacada": false,
    "primeraVez": "2026-11-18T19:19:03.472Z",
    "titulo_en": "#WeLoveBogotá: Share what you love most about the capital and support it in the ‘We Love Cities’ initiative"
+  },
+  {
+   "id": "prensa-1ucicmp",
+   "titulo": "Cámara escondida captó un oso de anteojos en Manta, Cundinamarca",
+   "resumen": "",
+   "fecha": "2026-10-31T21:21:23.000Z",
+   "imagen": "",
+   "credito": "",
+   "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRnZ3RWIxdTZ4UVdSOEZTbFM3N3JuNWR2c2lzVG5xYWU5cnJsQk5mbXBSUy1BM25UTkszd193SEExaGNXWHNOazY1NF9ycEZLTXY0cnM4OVVSNlAtTXRXalV1R0ZwMFR2eHc5aHBxQVRxQ1d4cGlVcDd5VmQyaDhNNmlDS3BENXM0VktYekIydi1jS1BNNy05UA?oc=5",
+   "fuente": "Canal Capital",
+   "tipo": "prensa",
+   "destacada": false,
+   "primeraVez": "2026-11-24T04:23:39.178Z",
+   "titulo_en": "Hidden camera captured a spectacled bear in Manta, Cundinamarca"
   },
   {
    "id": "prensa-1l2pp26",
@@ -1429,62 +1485,6 @@
    "destacada": false,
    "primeraVez": "2026-10-24T01:44:27.869Z",
    "titulo_en": "The new picture of global biodiversity revealed by the Living Planet report"
-  },
-  {
-   "id": "prensa-1sb98kn",
-   "titulo": "WWF alerta que las poblaciones de fauna silvestre han disminuido un 73 % en el mundo",
-   "resumen": "",
-   "fecha": "2026-10-08T07:00:00.000Z",
-   "imagen": "",
-   "credito": "",
-   "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUE52T3NPbEwta2EtaUtmSXBSWFBBUURFdHFhdUJpNXUzN1JsdW05MXB5MlkyTm82ZDdRNUFyU2VnYjk4QWVMQ1dfVlB0VF9JS193WVluSjNzOUJ1aEJweDBZVkc0UEFxSlk0LVpkWnBELWJKcE1IMEV2dlFoT1Rwa3NBRDVoZWdVMlBMNEJ1SUx1WGU2amxyU1lna21abkJlUTcxd3Niem1mQ01fVTl0X3JleENKcmtZV08wbXZB0gHLAUFVX3lxTE5Ucmd1aVF0TXlVMm9qdEJrSVVTUDhiN2NGZ1RYR0dJUzRrYmN5NER5SFZRRDFmc2RDMWExMU85NlpMZEFEVVBVNnBNdmRFSzFjSF9xNVpjYmJyVFJ4dDRKbERUZDBkZjgzQ1J0Wks4UWNTR3g0NzVsVTJuVDM3bTFEVDlEbkNDNm5iZVVTbV9fc2Fna1k5X25oV0FQVk9YU2dyMDRIVzN6X2NHUm95TGlsdFVtNnB1SmIzVkZYTFZyQjZzV3BTajlWb2xr?oc=5",
-   "fuente": "Blu Radio",
-   "tipo": "prensa",
-   "destacada": false,
-   "primeraVez": "2026-10-24T01:44:27.869Z",
-   "titulo_en": "WWF warns that wildlife populations have decreased by 73% worldwide"
-  },
-  {
-   "id": "prensa-1bzj5ix",
-   "titulo": "Científicos insisten en la importancia de la transformación de sistemas clave",
-   "resumen": "",
-   "fecha": "2026-10-08T07:00:00.000Z",
-   "imagen": "",
-   "credito": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWmZhdUJqc3E3SWE3dG83RG9ySkRZSUhMbzUycm9Nemc5NUctYWpkTnpoQ1J2S1NFZXI5c0w3eEJBSENRWTB5WGYtLUlsSEZueVI3enlObTAtc3hRSk9hcHFSeVVIdEdycUdneXMxVDhMcTcxUDRDbi1BRWV1VGFDZWFOUGdSWmhUbXpodmthZ1BQN2ljUlFrWEZJLUFCd2VUS2UtdnV3ZV9KeU9HTkVnTUdORQ?oc=5",
-   "fuente": "Diario del Sur",
-   "tipo": "prensa",
-   "destacada": false,
-   "primeraVez": "2026-11-02T09:11:25.290Z",
-   "titulo_en": "Scientists emphasize the importance of transforming key systems"
-  },
-  {
-   "id": "prensa-rce6sl",
-   "titulo": "Informe Planeta Vivo 2026",
-   "resumen": "",
-   "fecha": "2026-10-08T07:00:00.000Z",
-   "imagen": "",
-   "credito": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2YnIyQnlZWVphRGtFZ0V2M3lTNUlScWhEWjVwcGpwd0pnX2xkQWJWVEFJcWNkODNfVk5ZU1FEMGtybVVrMVNZek1SNkJHZlVFaE5nZ1l1V2NSVXQ3UDc5VVNydHlLeGc?oc=5",
-   "fuente": "WWF Colombia",
-   "tipo": "prensa",
-   "destacada": false,
-   "primeraVez": "2026-11-05T00:15:56.829Z",
-   "titulo_en": "Living Planet Report 2026"
-  },
-  {
-   "id": "prensa-fhijns",
-   "titulo": "América Latina da un paso para combatir legalmente el ecocidio",
-   "resumen": "",
-   "fecha": "2026-10-07T07:00:00.000Z",
-   "imagen": "",
-   "credito": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV0lhbE9UdVpxVWYyLVVIbWZYbkpzcGhUZF9WNnBaM0xTV1ZBN2htX1ZNWExoa0NzdTNwUUgxdkF5dTNxaElDZ1hINmlrWWVCWnVtaENvOXhGRVFSVDJ4YS1JcURuYWpkLVJqcW9yUGJJZ0pGckpBc2N5MFlOVTl2UUtCQ19yc1JDV0ZSUlRMTkNob015NEZTdWt6LTB1RUhZOGfSAaIBQVVfeXFMUDhpTUxvajBIb1d6dlM5eU1EbVktT0tfVW5zX1NsNHhYZkhVaFFsdmwwXzRHLTdmdFBHSkk5NHM2TnNJR2RPbVRJQUpkcjNxRTlWZ0hBWWR0djVIZnF6S01aVno1LUx0N1hzaHdIRGhvQkpmOUFhLTlXLVE0RmluWXBJQk1Tb0RpNTl4dkYxTTNWTm9xdkhJNmFKek1zdnZHRk13?oc=5",
-   "fuente": "DW.com",
-   "tipo": "prensa",
-   "destacada": false,
-   "primeraVez": "2026-10-24T01:44:27.869Z",
-   "titulo_en": "Latin America takes a step to legally combat ecocide"
   }
  ],
  "videos": [
