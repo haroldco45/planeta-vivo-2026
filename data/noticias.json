@@ -1,26 +1,26 @@
 {
- "actualizado": "2026-11-24T04:23:39.178Z",
- "actualizadoBogota": "23 de noviembre de 2026 a las 11:23 p. m.",
+ "actualizado": "2026-11-24T15:10:29.813Z",
+ "actualizadoBogota": "24 de noviembre de 2026 a las 10:10 a. m.",
  "fuentes": {
   "wwfInicio": "error: bloqueado y sin respaldo",
   "wwfNoticias": "error: sitio no disponible en esta corrida",
   "wwfRSS": "error: sitio no disponible en esta corrida",
-  "prensa": 32,
+  "prensa": 9,
   "prensaBing": 12,
-  "prensaAmbiente": 11,
+  "prensaAmbiente": 8,
   "notasAbiertas": 0,
   "fotosPrensa": 5,
   "paginasConFoto": 0,
   "fotosGaleria": 80,
   "videosCanal": 24,
-  "traducciones": 11,
+  "traducciones": 4,
   "errorTraduccion": "google: HTTP 429",
   "rutas": {
    "news.google.com": "directo",
    "www.bing.com": "directo",
    "www.youtube.com": "directo"
   },
-  "segundos": 69
+  "segundos": 65
  },
  "wwf": [
   {
@@ -521,20 +521,6 @@
    "titulo_en": "Colombia seeks to protect its forests at COP31"
   },
   {
-   "id": "prensa-snrmyw",
-   "titulo": "Colombia busca respaldo financiero y técnico en la COP31 para proteger su biodiversidad",
-   "resumen": "",
-   "fecha": "2026-11-16T16:51:18.000Z",
-   "imagen": "",
-   "credito": "",
-   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNDRNUENTNHc5aEJjRTN1OXFuTkxyMlltVmFaWTdQb2xZLWpmWVlOZ3NxWmNSazBkVmlCbGg1SkMtLXcxZXFLNUJvNzhzblRMRDZNQmhxamFnOFBOMEJQNUhTR2FTNjJ0WGFUS3R5Nk5JMjdaUmQ0NGswM25qMG1sY1h2YlBFTnhJeG50Y0RJeE9PRFRocWxhNmJ3NlFXeE83bDc2cW1pZGU5WFYzUmpROUw4TWo3clFsbXNCVW4xd9IB0wFBVV95cUxPSWo3SGhmZDJLc0VucnRCVDlScTFkTkc5M0JBZi1sMkJvMXFpSzJJcW1vN21JMUl6UXZYS2VyQzhWcmtLQ3J1anpnMnJPbDAwSWJkZkw2RC16Z05pS3dXM0pBRU5BR2tsZVNaX1JZb3N2UUwxN0tCdFpYeG9pUlFTN0pwanFmOXZGMC1Nb2ZyOWJrVXIwaEhHWnVqUHo5Q3pQdWFudy10dXZJTzRrUTRlMzV1MGVJYXNnbllPclE2TUJqeG9OOS1vT2VYZzFMRC1CcWJ3?oc=5",
-   "fuente": "Caracol Radio",
-   "tipo": "prensa",
-   "destacada": false,
-   "primeraVez": "2026-11-16T18:14:32.253Z",
-   "titulo_en": "Colombia seeks financial and technical support at COP31 to protect its biodiversity"
-  },
-  {
    "id": "prensa-1of72vz",
    "titulo": "De afrontar la emergencia climática a mejorar la vida en pueblos y ciudades: las propuestas de los ecologistas de cara a las elecciones del 29-N",
    "resumen": "",
@@ -575,6 +561,20 @@
    "destacada": false,
    "primeraVez": "2026-11-24T04:23:39.178Z",
    "titulo_en": "Protected Areas Day: The Opportunity Offered by OECMs to Expand the Reach of Conservation"
+  },
+  {
+   "id": "prensa-snrmyw",
+   "titulo": "Colombia busca respaldo financiero y técnico en la COP31 para proteger su biodiversidad",
+   "resumen": "",
+   "fecha": "2026-11-16T08:00:00.000Z",
+   "imagen": "",
+   "credito": "",
+   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNDRNUENTNHc5aEJjRTN1OXFuTkxyMlltVmFaWTdQb2xZLWpmWVlOZ3NxWmNSazBkVmlCbGg1SkMtLXcxZXFLNUJvNzhzblRMRDZNQmhxamFnOFBOMEJQNUhTR2FTNjJ0WGFUS3R5Nk5JMjdaUmQ0NGswM25qMG1sY1h2YlBFTnhJeG50Y0RJeE9PRFRocWxhNmJ3NlFXeE83bDc2cW1pZGU5WFYzUmpROUw4TWo3clFsbXNCVW4xd9IB0wFBVV95cUxPSWo3SGhmZDJLc0VucnRCVDlScTFkTkc5M0JBZi1sMkJvMXFpSzJJcW1vN21JMUl6UXZYS2VyQzhWcmtLQ3J1anpnMnJPbDAwSWJkZkw2RC16Z05pS3dXM0pBRU5BR2tsZVNaX1JZb3N2UUwxN0tCdFpYeG9pUlFTN0pwanFmOXZGMC1Nb2ZyOWJrVXIwaEhHWnVqUHo5Q3pQdWFudy10dXZJTzRrUTRlMzV1MGVJYXNnbllPclE2TUJqeG9OOS1vT2VYZzFMRC1CcWJ3?oc=5",
+   "fuente": "Caracol Radio",
+   "tipo": "prensa",
+   "destacada": false,
+   "primeraVez": "2026-11-16T18:14:32.253Z",
+   "titulo_en": "Colombia seeks financial and technical support at COP31 to protect its biodiversity"
   },
   {
    "id": "prensa-1mtwej8",
@@ -1567,7 +1567,7 @@
    "fecha": "2026-10-16T17:31:41+00:00",
    "canal": "WWF Colombia",
    "titulo_en": "After being looted, the turtles return to their nests",
-   "resumen_en": "For years, green turtle nests were raided and the hatchlings were left unprotected. But hope has its own form of patience. Communities protected and restored nesting beaches, while"
+   "resumen_en": "For years, green sea turtle nests were raided and the hatchlings were left unprotected. But hope has its own form of patience. Communities protected and restored nesting beaches, while"
   },
   {
    "id": "ax4XzEjgk7w",
