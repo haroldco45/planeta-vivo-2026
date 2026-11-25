@@ -1,32 +1,66 @@
 {
- "actualizado": "2026-11-24T15:10:29.813Z",
- "actualizadoBogota": "24 de noviembre de 2026 a las 10:10 a. m.",
+ "actualizado": "2026-11-25T00:02:21.025Z",
+ "actualizadoBogota": "24 de noviembre de 2026 a las 7:02 p. m.",
  "fuentes": {
-  "wwfInicio": "error: bloqueado y sin respaldo",
-  "wwfNoticias": "error: sitio no disponible en esta corrida",
-  "wwfRSS": "error: sitio no disponible en esta corrida",
-  "prensa": 9,
+  "fotosInicio": 5,
+  "wwfInicio": 3,
+  "wwfNoticias": 3,
+  "wwfRSS": 20,
+  "prensa": 32,
   "prensaBing": 12,
-  "prensaAmbiente": 8,
-  "notasAbiertas": 0,
+  "prensaAmbiente": 9,
+  "notasAbiertas": 2,
   "fotosPrensa": 5,
-  "paginasConFoto": 0,
+  "paginasConFoto": 12,
   "fotosGaleria": 80,
   "videosCanal": 24,
-  "traducciones": 4,
+  "traducciones": 26,
   "errorTraduccion": "google: HTTP 429",
   "rutas": {
+   "www.wwf.org.co": "api.allorigins.win",
    "news.google.com": "directo",
    "www.bing.com": "directo",
    "www.youtube.com": "directo"
   },
-  "segundos": 65
+  "segundos": 79
  },
  "wwf": [
   {
+   "id": "wwf-402398",
+   "titulo": "COP31: resultados insuficientes para responder a urgencia climática y abandonar combustibles fósiles",
+   "resumen": "COP31: resultados insuficientes para responder a urgencia climática y abandonar combustibles fósiles En un momento decisivo para la acción climática global, en Antalya (Turquía) no hubo resultados suficientes para responder y mantener el calentamiento global dentro del límite …",
+   "fecha": "2026-11-23T17:00:00.000Z",
+   "imagen": "https://wwflac.awsassets.panda.org/img/original/cierrecop31.png",
+   "credito": "© WWF",
+   "enlace": "https://www.wwf.org.co/?402398/Conclusiones-cierre-de-la-COP31-en-Turquia-Antalya",
+   "fuente": "WWF Colombia",
+   "tipo": "wwf",
+   "destacada": false,
+   "primeraVez": "2026-11-25T00:02:21.025Z",
+   "fotoRevisada": true,
+   "titulo_en": "COP31: Insufficient results to address the climate emergency and phase out fossil fuels",
+   "resumen_en": "COP31: Insufficient results to address the climate emergency and phase out fossil fuels At a pivotal moment for global climate action, COP31 in Antalya, Turkey, did not yield sufficient results to address the climate emergency and keep global warming within the limit..."
+  },
+  {
+   "id": "wwf-338910",
+   "titulo": "La orquídea, nuestra flor emblemática",
+   "resumen": "La orquídea, nuestra flor emblemática En Colombia existen más de 4.000 especies de orquídeas, más del 30 % de estas especies son endémicas, es decir, solo se encuentran en Colombia, generalmente localizadas en regiones muy singulares y di Fri, 20 Nov 2026 00:00:00 +0000",
+   "fecha": "2026-11-20T17:00:00.000Z",
+   "imagen": "https://wwflac.awsassets.panda.org/img/original/orquideacuatro.png",
+   "credito": "© WWF",
+   "enlace": "https://www.wwf.org.co/?338910/La-orquidea-nuestra-flor-emblematica",
+   "fuente": "WWF Colombia",
+   "tipo": "wwf",
+   "destacada": false,
+   "primeraVez": "2026-11-25T00:02:21.025Z",
+   "fotoRevisada": true,
+   "titulo_en": "The orchid, our emblematic flower",
+   "resumen_en": "The orchid, our emblematic flower. There are more than 4,000 species of orchids in Colombia, and over 30% of these species are endemic, meaning they are found only in Colombia, generally located in very unique regions and di Fri, Nov 20, 2026 00:00:00 +0000"
+  },
+  {
    "id": "wwf-402252",
    "titulo": "Bogotá y Medellín, las ciudades colombianas participantes en We Love Cities",
-   "resumen": "",
+   "resumen": "Bogotá y Medellín, las ciudades colombianas participantes en We Love Cities La campaña We Love Cities de WWF nuevamente abre un espacio para que las ciudadanía exprese qué valoran de sus ciudades y, especialmente, qué cambios les gustaría impulsar. Vota por tu favorita. Wed, 1…",
    "fecha": "2026-11-11T17:00:00.000Z",
    "imagen": "https://wwflac.awsassets.panda.org/img/welovecitiesint.webp",
    "credito": "© WWF Colombia",
@@ -36,13 +70,13 @@
    "destacada": false,
    "primeraVez": "2026-11-15T15:48:38.508Z",
    "titulo_en": "Bogotá and Medellín, the Colombian cities participating in We Love Cities",
-   "resumen_en": "",
+   "resumen_en": "Bogotá and Medellín, the Colombian cities participating in We Love Cities WWF's We Love Cities campaign once again provides a platform for citizens to express what they value about their cities and, especially, what changes they would like to see implemented. Vote for your favorite. Wed, 1…",
    "fotoRevisada": true
   },
   {
    "id": "wwf-402192",
    "titulo": "WWF: COP31 debe generar resultados que vayan más allá de la negociación",
-   "resumen": "",
+   "resumen": "WWF: COP31 debe generar resultados que vayan más allá de la negociación La Conferencia de las Partes que se realizará en Turquía, debe generar cambios visibles para las personas y mantener el impulso frente a los crecientes impactos del cambio climático. Fri, 06 Nov 2026 00:00…",
    "fecha": "2026-11-06T17:00:00.000Z",
    "imagen": "https://wwflac.awsassets.panda.org/img/cop31previo.webp",
    "credito": "© WWF Colombia",
@@ -52,13 +86,13 @@
    "destacada": false,
    "primeraVez": "2026-11-15T15:48:38.508Z",
    "titulo_en": "WWF: COP31 must deliver results that go beyond negotiation",
-   "resumen_en": "",
+   "resumen_en": "WWF: COP31 must produce results that go beyond negotiation. The Conference of the Parties to be held in Türkiye must produce visible changes for people and maintain momentum in the face of the growing impacts of climate change. Fri, Nov 6, 2026 00:00…",
    "fotoRevisada": true
   },
   {
    "id": "wwf-401950",
    "titulo": "COP17: WWF llama a convertir los compromisos globales de biodiversidad en acciones concretas",
-   "resumen": "",
+   "resumen": "COP17: WWF llama a convertir los compromisos globales de biodiversidad en acciones concretas En Armenia, inicia la COP17 de biodiversidad en la que Colombia entregará la presidencia con varios avances. Promover acciones urgentes para acelerar la recuperación de la biodiversida…",
    "fecha": null,
    "imagen": "https://wwflac.awsassets.panda.org/img/cop17armeniaplenaria.webp",
    "credito": "© WWF Colombia",
@@ -68,13 +102,13 @@
    "destacada": false,
    "primeraVez": "2026-11-05T00:15:56.829Z",
    "titulo_en": "COP17: WWF calls for turning global biodiversity commitments into concrete actions",
-   "resumen_en": "",
+   "resumen_en": "COP17: WWF calls for turning global biodiversity commitments into concrete actions COP17 on biodiversity is beginning in Armenia, where Colombia will hand over the presidency with several achievements under its belt. Promote urgent actions to accelerate the recovery of biodiversity…",
    "fotoRevisada": true
   },
   {
    "id": "wwf-398690",
    "titulo": "Sostenibilidad en Nariño: mujeres en el centro de la conservación del territorio",
-   "resumen": "",
+   "resumen": "Sostenibilidad en Nariño: mujeres en el centro de la conservación del territorio Más de 9.000 personas, en Nariño, buscan impulsar soluciones sostenibles que mejoren los medios de vida, restauren paisajes degradados y amplifiquen la voz de las mujeres en la toma de decisiones.…",
    "fecha": null,
    "imagen": "https://wwflac.awsassets.panda.org/img/22_1_762694.jpg",
    "credito": "© WWF Colombia",
@@ -84,13 +118,13 @@
    "destacada": false,
    "primeraVez": "2026-11-05T00:15:56.829Z",
    "titulo_en": "Sustainability in Nariño: women at the center of the conservation of the territory",
-   "resumen_en": "",
+   "resumen_en": "Sustainability in Nariño: Women at the Heart of Land Conservation More than 9,000 people in Nariño are seeking to promote sustainable solutions that improve livelihoods, restore degraded landscapes, and amplify women's voices in decision-making.…",
    "fotoRevisada": true
   },
   {
    "id": "wwf-397850",
    "titulo": "Las 40 recetas de las comunidades de Nariño que tú puedes hacer en casa",
-   "resumen": "",
+   "resumen": "Las 40 recetas de las comunidades de Nariño que tú puedes hacer en casa El recetario 'Cocina viva de La Cocha' nació en el territorio y fue escrito por sus cocineras y cocineros. Esta obra recoge sabores, historias y prácticas que cuidan la salud, la cultura y la naturale Thu,…",
    "fecha": null,
    "imagen": "https://wwflac.awsassets.panda.org/img/recetas-de-narin-o.webp",
    "credito": "© WWF Colombia",
@@ -100,13 +134,13 @@
    "destacada": false,
    "primeraVez": "2026-11-05T00:15:56.829Z",
    "titulo_en": "The 40 recipes from the communities of Nariño that you can make at home",
-   "resumen_en": "",
+   "resumen_en": "The 40 recipes from the communities of Nariño that you can make at home The cookbook \"Cocina viva de La Cocha\" (The Living Cuisine of La Cocha) originated in the region and was written by its cooks. This work brings together flavors, stories, and practices that care for health, culture, and nature. Thu,…",
    "fotoRevisada": true
   },
   {
    "id": "wwf-401718",
    "titulo": "Amazonía y Caribe, las regiones colombianas ganadoras en Sabiduría Salvaje 2026",
-   "resumen": "",
+   "resumen": "Amazonía y Caribe, las regiones colombianas ganadoras en Sabiduría Salvaje 2026 Johan Jojoa, de Amazonía, y Carlos Guerrero, del Caribe, ganaron la gran final nacional de Sabiduría Salvaje que se realizó en la primera Semana del Clima de Medellín. Wed, 30 Sep 2026 00:00:00 +0000",
    "fecha": null,
    "imagen": "https://wwflac.awsassets.panda.org/img/sabiduriasalvajefinal2026i.webp",
    "credito": "© WWF Colombia",
@@ -116,13 +150,13 @@
    "destacada": true,
    "primeraVez": "2026-11-05T00:15:56.829Z",
    "titulo_en": "Meet the young people who know the most about biodiversity in Colombia",
-   "resumen_en": "",
+   "resumen_en": "The Amazon and the Caribbean, the winning Colombian regions in Wild Wisdom 2026 Johan Jojoa, from the Amazon, and Carlos Guerrero, from the Caribbean, won the Wild Wisdom national grand final, which was held during Medellín's first Climate Week. Wed, Sep 30, 2026 00:00:00 +0000",
    "fotoRevisada": true
   },
   {
    "id": "wwf-401711",
    "titulo": "PNN El Tuparro: 46 años de un gigante de la esperanza en la Orinoquia colombiana",
-   "resumen": "",
+   "resumen": "PNN El Tuparro: 46 años de un gigante de la esperanza en la Orinoquia colombiana El primer parque nacional natural de la Orinoquia protege un patrimonio de diversidad biológica y cultural, en la actualidad proyecta un futuro de ecoturismo comunitario y ciencia ciudadana. Tue, …",
    "fecha": null,
    "imagen": "https://wwflac.awsassets.panda.org/img/eltuparrouno.webp",
    "credito": "© WWF Colombia",
@@ -132,13 +166,13 @@
    "destacada": false,
    "primeraVez": "2026-11-05T00:15:56.829Z",
    "titulo_en": "PNN El Tuparro: 46 years of a giant of hope in the Colombian Orinoquia",
-   "resumen_en": "",
+   "resumen_en": "El Tuparro National Natural Park: 46 years of a giant of hope in Colombia's Orinoquía region The first national natural park in the Orinoquía region protects a heritage of biological and cultural diversity. Today, it envisions a future of community-based ecotourism and citizen science. Tue, …",
    "fotoRevisada": true
   },
   {
    "id": "wwf-401652",
    "titulo": "Conectar, aprender, cocrear y hacer accesible la ciencia: camino al intercambio de conocimiento",
-   "resumen": "",
+   "resumen": "Conectar, aprender, cocrear y hacer accesible la ciencia: camino al intercambio de conocimiento La Plataforma de Gestión del Conocimiento en Restauración del Paisaje Forestal (RPF) para América del Sur, liderada por UICN, busca que el conocimiento circule libremente para poten…",
    "fecha": null,
    "imagen": "https://wwflac.awsassets.panda.org/img/plataforma-uicn.webp",
    "credito": "© WWF Colombia",
@@ -148,13 +182,13 @@
    "destacada": false,
    "primeraVez": "2026-11-05T00:15:56.829Z",
    "titulo_en": "Connecting, learning, co-creating and making science accessible: the path to knowledge sharing",
-   "resumen_en": "",
+   "resumen_en": "Connecting, learning, co-creating, and making science accessible: the path to knowledge sharing The Knowledge Management Platform for Forest Landscape Restoration (FLR) in South America, led by IUCN, seeks to ensure that knowledge circulates freely to empower…",
    "fotoRevisada": true
   },
   {
    "id": "wwf-401561",
    "titulo": "'Una Colombia biodiversa no puede ser letal para quienes la conservan'",
-   "resumen": "",
+   "resumen": "'Una Colombia biodiversa no puede ser letal para quienes la conservan' La protección de quienes defienden la naturaleza debe ser una prioridad nacional, sin embargo y de acuerdo con el informe Global Witness, el país no ha podido garantizar un entorno seguro para el ejer Wed, …",
    "fecha": null,
    "imagen": "https://wwflac.awsassets.panda.org/img/comunidadesescazu.webp",
    "credito": "© WWF Colombia",
@@ -164,13 +198,13 @@
    "destacada": false,
    "primeraVez": "2026-11-05T00:15:56.829Z",
    "titulo_en": "'A biodiverse Colombia cannot be lethal to those who conserve it'",
-   "resumen_en": "",
+   "resumen_en": "'A biodiverse Colombia cannot be lethal for those who conserve it.' The protection of those who defend nature must be a national priority. However, according to the Global Witness report, the country has not been able to guarantee a safe environment for the exercise of...",
    "fotoRevisada": true
   },
   {
    "id": "wwf-401319",
    "titulo": "Los retos ambientales para el Congreso en los próximos cuatro años",
-   "resumen": "",
+   "resumen": "Los retos ambientales para el Congreso en los próximos cuatro años Los congresistas heredan una agenda ambiental en marcha, compuesta por leyes recientes que requieren reglamentación, presupuesto, veeduría y equilibrio de poderes para materializarse. Sun, 13 Sep 2026 00:00:00 …",
    "fecha": null,
    "imagen": "https://wwflac.awsassets.panda.org/img/legislativo2026.webp",
    "credito": "© WWF Colombia",
@@ -180,13 +214,13 @@
    "destacada": false,
    "primeraVez": "2026-11-05T00:15:56.829Z",
    "titulo_en": "Environmental Challenges for Congress in the Next Four Years",
-   "resumen_en": "",
+   "resumen_en": "Environmental challenges for Congress over the next four years Members of Congress inherit an ongoing environmental agenda, consisting of recent laws that require regulation, budgeting, oversight, and a balance of powers to be implemented. Sun, Sep 13, 2026 00:00:00 …",
    "fotoRevisada": true
   },
   {
    "id": "wwf-401530",
    "titulo": "Una Amazonía para conocer: el turismo que nace en las comunidades",
-   "resumen": "",
+   "resumen": "Una Amazonía para conocer: el turismo que nace en las comunidades Los viajes no se piensan solamente como una manera de conocer la selva, sino como una oportunidad para compartir la cultura, fortalecer el liderazgo comunitario y cuidar el territorio. Fri, 11 Sep 2026 00:00:00 …",
    "fecha": null,
    "imagen": "https://wwflac.awsassets.panda.org/img/turismoamazonasi.webp",
    "credito": "© WWF Colombia",
@@ -196,13 +230,13 @@
    "destacada": false,
    "primeraVez": "2026-11-05T00:15:56.829Z",
    "titulo_en": "An Amazon to know: the tourism that is born in the communities",
-   "resumen_en": "",
+   "resumen_en": "An Amazon to discover: Tourism that originates in the communities. Travel is not only seen as a way to explore the rainforest, but also as an opportunity to share culture, strengthen community leadership, and care for the territory. Fri, Sep 11, 2026 00:00:00 …",
    "fotoRevisada": true
   },
   {
    "id": "wwf-401433",
    "titulo": "Siguiendo el rastro de los animales que habitan en el bosque",
-   "resumen": "",
+   "resumen": "Siguiendo el rastro de los animales que habitan en el bosque En el Caquetá, Putumayo y Guaviare, campesinos e indígenas participan en el monitoreo de aves y mamíferos. Cada avistamiento es una pequeña ventana para descubrir la vida que siempre estuvo allí. Fri, 04 Sep 2026 00:…",
    "fecha": null,
    "imagen": "https://wwflac.awsassets.panda.org/img/monitoreo-especies-iii.webp",
    "credito": "© WWF Colombia",
@@ -212,13 +246,13 @@
    "destacada": false,
    "primeraVez": "2026-11-05T00:15:56.829Z",
    "titulo_en": "Following the trail of the animals that inhabit the forest",
-   "resumen_en": "",
+   "resumen_en": "Following the trail of the animals that inhabit the forest In Caquetá, Putumayo, and Guaviare, smallholder farmers and indigenous people participate in monitoring birds and mammals. Each sighting is a small window into discovering the life that has always been there. Fri, Sep 4, 2026 00:…",
    "fotoRevisada": true
   },
   {
    "id": "wwf-401310",
    "titulo": "Las mujeres gobiernan y sostienen el futuro de sus territorios en la Estrella Fluvial Inírida",
-   "resumen": "",
+   "resumen": "Las mujeres gobiernan y sostienen el futuro de sus territorios en la Estrella Fluvial Inírida Son capitanas, monitoras, pescadoras y guardianas de un conocimiento invaluable. Ellas toman decisiones para proteger uno de los humedales más importantes de toda Colombia. Fri, 04 Se…",
    "fecha": null,
    "imagen": "https://wwflac.awsassets.panda.org/img/mujeresindigenaslideresas.webp",
    "credito": "© WWF Colombia",
@@ -228,13 +262,13 @@
    "destacada": false,
    "primeraVez": "2026-11-05T00:15:56.829Z",
    "titulo_en": "Women rule and sustain the future of their territories in the Inirid River Star",
-   "resumen_en": "",
+   "resumen_en": "Women govern and sustain the future of their territories in the Inírida River Star. They are captains, monitors, fisherwomen, and guardians of invaluable knowledge. They make decisions to protect one of the most important wetlands in all of Colombia. Fri, Sep 4…",
    "fotoRevisada": true
   },
   {
    "id": "wwf-401410",
    "titulo": "¿Cómo impacta el fenómeno de 'El Niño' a las regiones de Colombia?",
-   "resumen": "",
+   "resumen": "¿Cómo impacta el fenómeno de 'El Niño' a las regiones de Colombia? Las consecuencias que deja este evento climático son distintas para cada región. Sequías, propagación de incendios forestales o afectaciones a la fauna y la vegetación son algunas de las principales. Wed, 02 Se…",
    "fecha": null,
    "imagen": "https://wwflac.awsassets.panda.org/img/andes.webp",
    "credito": "© WWF Colombia",
@@ -244,13 +278,13 @@
    "destacada": true,
    "primeraVez": "2026-11-05T00:15:56.829Z",
    "titulo_en": "How 'El Niño' affects Colombia's regions",
-   "resumen_en": "",
+   "resumen_en": "How does the El Niño phenomenon affect the regions of Colombia? The consequences of this weather event are different for each region. Droughts, the spread of wildfires, and impacts on wildlife and vegetation are some of the main ones. Wed, Sep 2…",
    "fotoRevisada": true
   },
   {
    "id": "wwf-401352",
    "titulo": "Del residuo a la oportunidad: cadena lactea y la reducción del impacto en las cuencas hídricas",
-   "resumen": "",
+   "resumen": "Del residuo a la oportunidad: cadena lactea y la reducción del impacto en las cuencas hídricas Por medio de la estrategia INVEST de WWF Colombia, se busca contribuir a transformar los sistemas productivos del sector lácteo y generar beneficios para las personas y la naturaleza…",
    "fecha": null,
    "imagen": "https://wwflac.awsassets.panda.org/img/productividadcuencas.webp",
    "credito": "© WWF Colombia",
@@ -260,7 +294,7 @@
    "destacada": false,
    "primeraVez": "2026-11-05T00:15:56.829Z",
    "titulo_en": "From waste to opportunity: dairy chain and the reduction of the impact on water basins",
-   "resumen_en": "",
+   "resumen_en": "From waste to opportunity: The dairy supply chain and reducing the impact on watersheds Through WWF Colombia's INVEST strategy, we aim to help transform the production systems of the dairy sector and generate benefits for people and nature…",
    "video": "cfXKetJ4bv4",
    "fotoRevisada": true
   },
@@ -331,7 +365,7 @@
   {
    "id": "wwf-402090",
    "titulo": "¿Por qué el buen estado de los suelos es clave para tener alimentos saludables en casa?",
-   "resumen": "",
+   "resumen": "¿Por qué el buen estado de los suelos es clave para tener alimentos saludables en casa? Los pueblos indígenas, en el Putumayo, ya aplican varios conocimientos para conservar mejor sus suelos y así, cultivar una comida nutritiva y de calidad que llegue a las mesas de muchas per…",
    "fecha": "2026-10-29T17:00:00.000Z",
    "imagen": "https://wwflac.awsassets.panda.org/img/cacaodiauno.webp",
    "credito": "© WWF Colombia",
@@ -341,7 +375,7 @@
    "destacada": false,
    "primeraVez": "2026-11-05T00:15:56.829Z",
    "titulo_en": "Why is good soil condition key to having healthy food at home?",
-   "resumen_en": "",
+   "resumen_en": "Why is healthy soil key to having healthy food at home? Indigenous peoples in Putumayo already apply various forms of knowledge to better conserve their soils and thus grow nutritious, high-quality food that reaches the tables of many people…",
    "fotoRevisada": true
   },
   {
@@ -363,7 +397,7 @@
   {
    "id": "wwf-401810",
    "titulo": "Informe Planeta Vivo 2026: datos que nos impulsan a revertir la pérdida de biodiversidad",
-   "resumen": "",
+   "resumen": "Informe Planeta Vivo 2026: datos que nos impulsan a revertir la pérdida de biodiversidad En América Latina y el Caribe se registran los mayores descensos en el tamaño promedio de las poblaciones de fauna silvestre monitoreadas. En Colombia, poblaciones de atún rojo del Atlánti…",
    "fecha": "2026-10-08T17:00:00.000Z",
    "imagen": "https://wwflac.awsassets.panda.org/img/ipv-portada_1.webp",
    "credito": "© WWF Colombia",
@@ -373,13 +407,13 @@
    "destacada": true,
    "primeraVez": "2026-11-05T00:15:56.829Z",
    "titulo_en": "Living Planet Report 2026: data that drives us to reverse biodiversity loss",
-   "resumen_en": "",
+   "resumen_en": "Living Planet Report 2026: Data that drive us to reverse biodiversity loss Latin America and the Caribbean have seen the largest declines in the average size of monitored wildlife populations. In Colombia, populations of Atlantic bluefin tuna…",
    "fotoRevisada": true
   },
   {
    "id": "wwf-401730",
    "titulo": "Climate Week Medellín: firman declaración para proteger áreas naturales urbanas y periurbanas",
-   "resumen": "",
+   "resumen": "Climate Week Medellín: firman declaración para proteger áreas naturales urbanas y periurbanas Autoridades de Medellín, Bogotá y Miami, tras la firma, trabajarán para generar evidencia técnica sobre el aporte de áreas protegidas urbanas a la salud, la conectividad y la reducció…",
    "fecha": "2026-10-01T17:00:00.000Z",
    "imagen": "https://wwflac.awsassets.panda.org/img/declaracionareasi.webp",
    "credito": "© WWF Colombia",
@@ -389,7 +423,7 @@
    "destacada": false,
    "primeraVez": "2026-11-05T00:15:56.829Z",
    "titulo_en": "Climate Week Medellín: declaration signed to protect urban and peri-urban natural areas",
-   "resumen_en": "",
+   "resumen_en": "Climate Week Medellín: Authorities from Medellín, Bogotá, and Miami sign a declaration to protect urban and peri-urban natural areas. Following the signing, they will work to generate technical evidence on the contribution of urban protected areas to health, connectivity, and reduction...",
    "fotoRevisada": true
   }
  ],
@@ -407,20 +441,6 @@
    "destacada": false,
    "primeraVez": "2026-11-24T04:23:39.178Z",
    "titulo_en": "New species in Colombia surprise scientists today"
-  },
-  {
-   "id": "prensa-bx88g8",
-   "titulo": "COP31: resultados insuficientes para responder a urgencia climática y abandonar combustibles fó",
-   "resumen": "",
-   "fecha": "2026-11-23T17:23:57.000Z",
-   "imagen": "",
-   "credito": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQekYybnN6Q0xTYkUzM2FURkNlX1dUcF85X1cyRHJCNzVOTElOakZtRnRscXY3dzZsTk92NXJSU0hHR0VIYjlTd1pjX0FueHNTOFVTWU9HYTgybUxabnJaZ0VkNHJqdnB0X1IyTXNoLWJWVXJ5aDROcUJWN1p1OXBaMmFwWFJZczFh?oc=5",
-   "fuente": "WWF Colombia",
-   "tipo": "prensa",
-   "destacada": false,
-   "primeraVez": "2026-11-23T19:05:06.420Z",
-   "titulo_en": "COP31: Insufficient results to address the climate emergency and phase out fossil fuels"
   },
   {
    "id": "prensa-sz47pc",
@@ -608,7 +628,7 @@
    "id": "prensa-1nugsds",
    "titulo": "WWF alerta del posible fracaso del plan ambiental de Doñana por falta de ejecución",
    "resumen": "",
-   "fecha": "2026-11-14T10:17:00.000Z",
+   "fecha": "2026-11-14T08:00:00.000Z",
    "imagen": "",
    "credito": "",
    "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYU1xTUY2OVAyVHNjTVNzb0FNdUJvaUxrUmpUTElKcFhJcFEwWmpIQU9TdEs4QVhfRWhHc2tpU3NWRmU0TzQ1cEw0OGdBOVdWUTV6cUZWMlNBQWducXR1NkFXMUFzRTRPZDhBa0FXN0t5YUw4d1JQM0ViRUd1SGdpRUY4aGF1Y2QyYWMydmxlQVUxU1lSRmdBOTV2cVdSMHhDVVNwM3ZiTHFyNUJMS1pYUFR0cF92NGNVOFY5VE1ULXlFOGx1T1FoUFBZR1RHMkXSAeoBQVVfeXFMUEtxYmxMb2Y0VVpoNjEzUHlrSEU1dzd1NDgtbHVudU9vUjZLVWozVktDMTR4c01BZ3VJU19QMXRqXzE2MHBiSWhiV2xtN0RUQjQ3Y2NBSXZqSEt1M3czbTdjWlRRSTVPTDg1VTdwTUloa1N3Z0o3TkJnMEpFNWEtZXN2X3RPQW9IcV9mekxNRzhjTW8tVnhvOUpzVGRacGMxTkFQYzJxWkN5SFFFdnctRU5VZEtJTmEwYzVWLVJMbE83SUlYZGluWlJNNmQ0M1E0N2ZIWnQ4ak11ZmZETHAwdFRiNG85OXY1T21B?oc=5",
@@ -843,20 +863,6 @@
    "titulo_en": "Claudia Bahamón confessed what she can't stand on \"MasterChef Celebrity\" and why it makes her angry: \"I'm like a monkey.\""
   },
   {
-   "id": "prensa-ojr98s",
-   "titulo": "Carlos Mario Guerrero llegó al segundo lugar nacional en Sabiduría Salvaje 2026",
-   "resumen": "",
-   "fecha": "2026-11-03T03:00:00.000Z",
-   "imagen": "",
-   "credito": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2JpLTBZcnlMSHZVdElpdnFkREZxd3hCNTdWX25nUzcwVHNDV2dXNW5iZ3lwd3d1eURZQ1FLczhteUliZFJnSVVZTjdkSmpLaWFaeHBBdEc4UXo1am1kM0NFelRtbkNObm1tblVCODNUOHBHaEhpNUpmMEgwc2w1d3VrNHBna0V4RERVNU12Zk1mei0wMUo0Wm5OZVlSblhMdmlROURrakJLRFIzU3I2TW5DdHNTd2x1X2s2d19NMEtYSXc?oc=5",
-   "fuente": "ELHERALDO.CO",
-   "tipo": "prensa",
-   "destacada": false,
-   "primeraVez": "2026-11-18T19:19:03.472Z",
-   "titulo_en": "Carlos Mario Guerrero took second place nationally in Wild Wisdom 2026"
-  },
-  {
    "id": "prensa-15wh74b",
    "titulo": "COP17 cierra con casi US$ 2000 millones para biodiversidad, pero advierte que el mundo sigue lejos de cumplir las metas fijadas para 2030",
    "resumen": "",
@@ -869,6 +875,20 @@
    "destacada": false,
    "primeraVez": "2026-11-14T21:14:45.328Z",
    "titulo_en": "COP17 closes with nearly $2 billion for biodiversity, but warns that the world is still far from meeting the targets set for 2030"
+  },
+  {
+   "id": "prensa-ojr98s",
+   "titulo": "Carlos Mario Guerrero llegó al segundo lugar nacional en Sabiduría Salvaje 2026",
+   "resumen": "",
+   "fecha": "2026-11-02T08:00:00.000Z",
+   "imagen": "",
+   "credito": "",
+   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2JpLTBZcnlMSHZVdElpdnFkREZxd3hCNTdWX25nUzcwVHNDV2dXNW5iZ3lwd3d1eURZQ1FLczhteUliZFJnSVVZTjdkSmpLaWFaeHBBdEc4UXo1am1kM0NFelRtbkNObm1tblVCODNUOHBHaEhpNUpmMEgwc2w1d3VrNHBna0V4RERVNU12Zk1mei0wMUo0Wm5OZVlSblhMdmlROURrakJLRFIzU3I2TW5DdHNTd2x1X2s2d19NMEtYSXc?oc=5",
+   "fuente": "ELHERALDO.CO",
+   "tipo": "prensa",
+   "destacada": false,
+   "primeraVez": "2026-11-18T19:19:03.472Z",
+   "titulo_en": "Carlos Mario Guerrero took second place nationally in Wild Wisdom 2026"
   },
   {
    "id": "prensa-am4dm8",
@@ -981,6 +1001,19 @@
    "destacada": false,
    "primeraVez": "2026-11-09T01:52:21.018Z",
    "titulo_en": "WWF at the close of COP17: ambition in biodiversity must be accompanied by action"
+  },
+  {
+   "id": "prensa-d0ks4c",
+   "titulo": "Acelerar o debilitar la consulta previa: el Gobierno de Colombia cambia las reglas de ese derecho",
+   "resumen": "",
+   "fecha": "2026-10-30T07:00:00.000Z",
+   "imagen": "",
+   "credito": "",
+   "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzVHk5cHVuZzdmd0lRdWFnOFJXZTVXcGVjS1pKSXRZUlQzTDRPWWdHeEVLVEl1RUZ6bGtCN1VmSHpNa04wR3ZHNVlEQXFaUmYxVHNuZDJGT1E1ckdwNk9sWHpFQlYwcGlOX01CWElROHlUUHQtdnlWSnJlcw?oc=5",
+   "fuente": "Mongabay Latam",
+   "tipo": "prensa",
+   "destacada": false,
+   "primeraVez": "2026-11-25T00:02:21.025Z"
   },
   {
    "id": "prensa-1yw9na1",
@@ -1471,20 +1504,6 @@
    "destacada": false,
    "primeraVez": "2026-10-24T01:44:27.869Z",
    "titulo_en": "Wildlife populations fell 73% in 52 years, according to WWF"
-  },
-  {
-   "id": "prensa-zpx2pr",
-   "titulo": "La nueva fotografía de la biodiversidad global que revela el informe Planeta Vivo",
-   "resumen": "",
-   "fecha": "2026-10-08T07:00:00.000Z",
-   "imagen": "",
-   "credito": "",
-   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZFMxQUN6emFKRTN3dktwdEVWdjZRQTJ0WU5oQkxaWmhELUl3OU1NcjB1b1lSRVhKYW1WZFFtMjF3WXgyNkpQaG1mdTk1YUNUa1FHQmx6c0xnWjJKSC1GY1RSbV81dVBaaHBYbTQ1NENYekV2eFNiN1ItSzUxdW9COEZ0X3JUQXBRVzRhalpDbzNKYzVEQzRaZEllYkY2aW05SDIyQUtZdkhHbFdxMXlLVEdROW94M2k1Q19Ub3BmeElvSFXSAdcBQVVfeXFMTnhSWFpMekpMdzZhU3FhbFdVYzhiTnFHR3A1WXU2a2thV1ZfaWg4V1FIeTZWY1h6Qjd5QWVsWGcwaUlnRXV4VTlQX0Z3LV9NQU5DM2RoT1YyRlRWTWhlQkFRZkN5ajNNdzFwR25yUWFpcFhRMnFLRE5SUTBlMmVPdG45dW5lMWo2OTBaMFJWVVUtQ1o1R1hIYmNEbHh2SFIxUlZWdHd5T21GaVpDblpmWWxScm1TZXpaUF9PSFVFbDIzVGoxaGFZeDFSZW5QaUlGaWFLQ3RtX1k?oc=5",
-   "fuente": "El Espectador",
-   "tipo": "prensa",
-   "destacada": false,
-   "primeraVez": "2026-10-24T01:44:27.869Z",
-   "titulo_en": "The new picture of global biodiversity revealed by the Living Planet report"
   }
  ],
  "videos": [
@@ -1567,7 +1586,7 @@
    "fecha": "2026-10-16T17:31:41+00:00",
    "canal": "WWF Colombia",
    "titulo_en": "After being looted, the turtles return to their nests",
-   "resumen_en": "For years, green sea turtle nests were raided and the hatchlings were left unprotected. But hope has its own form of patience. Communities protected and restored nesting beaches, while"
+   "resumen_en": "For years, green turtle nests were raided and the hatchlings were left unprotected. But hope has its own form of patience. Communities protected and restored nesting beaches, while"
   },
   {
    "id": "ax4XzEjgk7w",
@@ -2859,160 +2878,40 @@
     "pagina": "https://www.wwf.org.co/"
    },
    {
-    "img": "https://wwflac.awsassets.panda.org/img/original/cop17armeniaplenaria.png",
+    "img": "https://wwflac.awsassets.panda.org/img/original/cierrecop31a.png",
     "credito": "© WWF",
     "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=401950"
+    "pagina": "https://www.wwf.org.co/?402398/Conclusiones-cierre-de-la-COP31-en-Turquia-Antalya"
    },
    {
-    "img": "https://wwflac.awsassets.panda.org/img/original/laguna-la-cocha-carewwf.png",
+    "img": "https://wwflac.awsassets.panda.org/img/original/cierrecop31.png",
     "credito": "© WWF",
     "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=398690"
+    "pagina": "https://www.wwf.org.co/?402398/Conclusiones-cierre-de-la-COP31-en-Turquia-Antalya"
    },
    {
-    "img": "https://wwflac.awsassets.panda.org/img/original/recetas-de-narin-o.webp",
+    "img": "https://wwflac.awsassets.panda.org/img/original/orquideauno.png",
     "credito": "© WWF",
     "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=397850"
+    "pagina": "https://www.wwf.org.co/?338910/La-orquidea-nuestra-flor-emblematica"
    },
    {
-    "img": "https://wwflac.awsassets.panda.org/img/original/comunidadlacocha.webp",
+    "img": "https://wwflac.awsassets.panda.org/img/original/orquideados.png",
     "credito": "© WWF",
     "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=397850"
+    "pagina": "https://www.wwf.org.co/?338910/La-orquidea-nuestra-flor-emblematica"
    },
    {
-    "img": "https://wwflac.awsassets.panda.org/img/original/eltuparrouno.png",
+    "img": "https://wwflac.awsassets.panda.org/img/original/orquideatres.png",
     "credito": "© WWF",
     "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=401711"
+    "pagina": "https://www.wwf.org.co/?338910/La-orquidea-nuestra-flor-emblematica"
    },
    {
-    "img": "https://wwflac.awsassets.panda.org/img/original/parquenacionaltuparro.png",
+    "img": "https://wwflac.awsassets.panda.org/img/original/orquideacuatro.png",
     "credito": "© WWF",
     "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=401711"
-   },
-   {
-    "img": "https://wwflac.awsassets.panda.org/img/original/especiestuparro.png",
-    "credito": "© WWF",
-    "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=401711"
-   },
-   {
-    "img": "https://wwflac.awsassets.panda.org/img/original/guardaparquestuparro.png",
-    "credito": "© WWF",
-    "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=401711"
-   },
-   {
-    "img": "https://wwflac.awsassets.panda.org/img/original/plataforma-uicn.png",
-    "credito": "© WWF",
-    "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=401652"
-   },
-   {
-    "img": "https://wwflac.awsassets.panda.org/img/original/acuerdodeescazu.webp",
-    "credito": "© WWF",
-    "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=401561"
-   },
-   {
-    "img": "https://wwflac.awsassets.panda.org/img/original/legislativo2026.png",
-    "credito": "© WWF",
-    "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=401319"
-   },
-   {
-    "img": "https://wwflac.awsassets.panda.org/img/original/turismoamazonasi.png",
-    "credito": "© WWF",
-    "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=401530"
-   },
-   {
-    "img": "https://wwflac.awsassets.panda.org/img/original/turismoamazonassansebastian.png",
-    "credito": "© WWF",
-    "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=401530"
-   },
-   {
-    "img": "https://wwflac.awsassets.panda.org/img/original/turismoamazonasmocagua.png",
-    "credito": "© WWF",
-    "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=401530"
-   },
-   {
-    "img": "https://wwflac.awsassets.panda.org/img/original/turismoamazonassanmartin.png",
-    "credito": "© WWF",
-    "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=401530"
-   },
-   {
-    "img": "https://wwflac.awsassets.panda.org/img/original/monitoreo-especies-i.png",
-    "credito": "© WWF",
-    "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=401433"
-   },
-   {
-    "img": "https://wwflac.awsassets.panda.org/img/original/monitoreo-especies-ii.png",
-    "credito": "© WWF",
-    "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=401433"
-   },
-   {
-    "img": "https://wwflac.awsassets.panda.org/img/original/avistamiento-3.png",
-    "credito": "© WWF",
-    "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=401433"
-   },
-   {
-    "img": "https://wwflac.awsassets.panda.org/img/original/avistamiento-2.png",
-    "credito": "© WWF",
-    "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=401433"
-   },
-   {
-    "img": "https://wwflac.awsassets.panda.org/img/original/mujeresindigenaslideresas.png",
-    "credito": "© WWF",
-    "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=401310"
-   },
-   {
-    "img": "https://wwflac.awsassets.panda.org/img/original/calorfenomenonino.png",
-    "credito": "© WWF",
-    "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=401273"
-   },
-   {
-    "img": "https://wwflac.awsassets.panda.org/img/original/sabanasypastizales.png",
-    "credito": "© WWF",
-    "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=401270"
-   },
-   {
-    "img": "https://wwflac.awsassets.panda.org/img/original/incendiosachacalamar.jpeg",
-    "credito": "© WWF",
-    "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=386272"
-   },
-   {
-    "img": "https://wwflac.awsassets.panda.org/img/original/sachacalamarguaviare.jpeg",
-    "credito": "© WWF",
-    "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=386272"
-   },
-   {
-    "img": "https://wwflac.awsassets.panda.org/img/original/tortuga-cana-pacifico.png",
-    "credito": "© WWF",
-    "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=401174"
-   },
-   {
-    "img": "https://wwflac.awsassets.panda.org/img/original/sabiduria-salvaje-2026-colombia.png",
-    "credito": "© WWF",
-    "alt": "",
-    "pagina": "https://www.wwf.org.co/de_interes/noticias/?uNewsID=401115"
+    "pagina": "https://www.wwf.org.co/?338910/La-orquidea-nuestra-flor-emblematica"
    },
    {
     "img": "https://www.wwf.org.co/./images/Header/world-map.png",
@@ -3307,8 +3206,128 @@
     "credito": "© Giovanny Pulido",
     "alt": "Parque Nacional Natural Tayrona",
     "pagina": "https://www.wwf.org.co/que_hacemos/oceanos/"
+   },
+   {
+    "img": "https://wwflac.awsassets.panda.org/img/diseno_sin_titulo__73__743453.png",
+    "credito": "© WWF",
+    "alt": "WWF",
+    "pagina": "https://www.wwf.org.co/que_hacemos/oceanos/"
+   },
+   {
+    "img": "https://wwflac.awsassets.panda.org/img/diseno_sin_titulo__74__743454.png",
+    "credito": "© WWF",
+    "alt": "WWF",
+    "pagina": "https://www.wwf.org.co/que_hacemos/oceanos/"
+   },
+   {
+    "img": "https://wwflac.awsassets.panda.org/img/screen_shot_2020_10_15_at_9_15_10_am_743035.png",
+    "credito": "© WWF",
+    "alt": "WWF",
+    "pagina": "https://www.wwf.org.co/que_hacemos/cambio_climatico_y_energia/"
+   },
+   {
+    "img": "https://wwflac.awsassets.panda.org/img/diseno_sin_titulo__63__743426.png",
+    "credito": "© WWF",
+    "alt": "WWF",
+    "pagina": "https://www.wwf.org.co/que_hacemos/cambio_climatico_y_energia/"
+   },
+   {
+    "img": "https://wwflac.awsassets.panda.org/img/large_ww241785_tim_rasmussenthe_denver_post_via_getty_imageswwf_us_749659.jpg",
+    "credito": "© Tim RasmussenThe Denver/ Getty Images/ WWF-US",
+    "alt": "",
+    "pagina": "https://www.wwf.org.co/que_hacemos/cambio_climatico_y_energia/"
+   },
+   {
+    "img": "https://wwflac.awsassets.panda.org/img/huella3_679803.jpg",
+    "credito": "© Juan Camilo Gómez / WWF Bolivia",
+    "alt": "",
+    "pagina": "https://www.wwf.org.co/que_hacemos/cambio_climatico_y_energia/"
+   },
+   {
+    "img": "https://wwflac.awsassets.panda.org/img/diseno_sin_titulo__1__1_1_775500.png",
+    "credito": "© WWF",
+    "alt": "© WWF Colombia",
+    "pagina": "https://www.wwf.org.co/que_hacemos/cambio_climatico_y_energia/"
+   },
+   {
+    "img": "https://wwflac.awsassets.panda.org/img/diseno_sin_titulo__69__743435.png",
+    "credito": "© WWF Colombia\">",
+    "alt": "© WWF Colombia",
+    "pagina": "https://www.wwf.org.co/que_hacemos/cambio_climatico_y_energia/"
+   },
+   {
+    "img": "https://wwflac.awsassets.panda.org/img/salteado_alimentos_macbaites_wwf_767134.png",
+    "credito": "© WWF Colombia",
+    "alt": "",
+    "pagina": "https://www.wwf.org.co/que_hacemos/alimentos/"
+   },
+   {
+    "img": "https://wwflac.awsassets.panda.org/img/food_waste_marinakelava_743461.jpg",
+    "credito": "© Marina Kelava",
+    "alt": "",
+    "pagina": "https://www.wwf.org.co/que_hacemos/alimentos/"
+   },
+   {
+    "img": "https://wwflac.awsassets.panda.org/img/ola_mf039_743466.jpg",
+    "credito": "© Ola Jennersten/WWF Sweden",
+    "alt": "",
+    "pagina": "https://www.wwf.org.co/que_hacemos/alimentos/"
+   },
+   {
+    "img": "https://wwflac.awsassets.panda.org/img/diseno_sin_titulo__82__743468.png",
+    "credito": "© WWF",
+    "alt": "© WWF Colombia",
+    "pagina": "https://www.wwf.org.co/que_hacemos/alimentos/"
+   },
+   {
+    "img": "https://wwflac.awsassets.panda.org/img/diseno_sin_titulo__54__743008.png",
+    "credito": "© WWF Colombia\">",
+    "alt": "© Jonathan Caramanus",
+    "pagina": "https://www.wwf.org.co/que_hacemos/alimentos/"
+   },
+   {
+    "img": "https://wwflac.awsassets.panda.org/img/diseno_sin_titulo__84__743469.png",
+    "credito": "© Jonathan Caramanus\">",
+    "alt": "© Javier Larotta",
+    "pagina": "https://www.wwf.org.co/que_hacemos/alimentos/"
+   },
+   {
+    "img": "https://wwflac.awsassets.panda.org/img/_dsc1018_743758.jpg",
+    "credito": "© Carolina Escallón / WWF-Colombia",
+    "alt": "",
+    "pagina": "https://www.wwf.org.co/que_hacemos/comunidades_/"
+   },
+   {
+    "img": "https://wwflac.awsassets.panda.org/img/_mg_4170_copy_alvaro_ruales___wwf_colombia_745002.jpg",
+    "credito": "© Alvaro Ruales/ WWF Colombia",
+    "alt": "",
+    "pagina": "https://www.wwf.org.co/que_hacemos/comunidades_/"
+   },
+   {
+    "img": "https://wwflac.awsassets.panda.org/img/colombia_2_745008.jpg",
+    "credito": "© WWF COLOMBIA",
+    "alt": "",
+    "pagina": "https://www.wwf.org.co/que_hacemos/comunidades_/"
+   },
+   {
+    "img": "https://wwflac.awsassets.panda.org/img/zona_exclusiva_de_pesca_artesanal___zepa__1__743766.jpg",
+    "credito": "© Alvaro Ruales/ WWF Colombia",
+    "alt": "",
+    "pagina": "https://www.wwf.org.co/que_hacemos/comunidades_/"
+   },
+   {
+    "img": "https://wwflac.awsassets.panda.org/img/sabiduria_salvaje_745000.jpg",
+    "credito": "© We4ThePlanet",
+    "alt": "",
+    "pagina": "https://www.wwf.org.co/que_hacemos/comunidades_/"
+   },
+   {
+    "img": "https://wwflac.awsassets.panda.org/img/orinoco_4_745003.jpg",
+    "credito": "© Denise Oliveira / WWF",
+    "alt": "Niño y oficial de WWF en el Orinoco",
+    "pagina": "https://www.wwf.org.co/que_hacemos/comunidades_/"
    }
   ],
-  "actualizado": "2026-11-19T23:14:23.108Z"
+  "actualizado": "2026-11-25T00:02:21.025Z"
  }
 }
