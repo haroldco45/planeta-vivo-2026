@@ -1,25 +1,25 @@
 {
- "actualizado": "2026-11-27T20:57:06.802Z",
- "actualizadoBogota": "27 de noviembre de 2026 a las 3:57 p. m.",
+ "actualizado": "2026-11-27T22:33:58.227Z",
+ "actualizadoBogota": "27 de noviembre de 2026 a las 5:33 p. m.",
  "fuentes": {
   "wwfInicio": "error: bloqueado y sin respaldo",
   "wwfNoticias": "error: sitio no disponible en esta corrida",
   "wwfRSS": "error: sitio no disponible en esta corrida",
-  "prensa": 10,
+  "prensa": 30,
   "prensaBing": 12,
   "prensaAmbiente": 11,
   "notasAbiertas": 0,
   "fotosPrensa": 5,
   "fotosGaleria": 80,
   "videosCanal": 24,
-  "traducciones": 4,
+  "traducciones": 5,
   "errorTraduccion": "google: HTTP 429",
   "rutas": {
    "news.google.com": "directo",
    "www.bing.com": "directo",
    "www.youtube.com": "directo"
   },
-  "segundos": 42
+  "segundos": 59
  },
  "wwf": [
   {
@@ -790,6 +790,20 @@
    "titulo_en": "COP17 leaves urgent tasks for Latin America"
   },
   {
+   "id": "prensa-11yojqb",
+   "titulo": "Colombia – Ley contra la pérdida y desperdicio de alimentos",
+   "resumen": "",
+   "fecha": "2026-11-08T08:00:00.000Z",
+   "imagen": "",
+   "credito": "",
+   "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOczE5c3IwZkZQRDlaNlEwQ1ZnMEFZdWIzZEREZTk4bngzaEJoVUMxWFRHd1lXNUUxb2JRemFndllzbU5KOTBKS0VNaTFVbzUwb3VoWkRnbmN2WEFYU0VNT0x3YVBjOGItYUE5UXZoVXNJakg1Y052OXFXX0tUX2pWT3dtMjY5RWRmOG1Pd3FqSmVZczA?oc=5",
+   "fuente": "Diario Jurídico",
+   "tipo": "prensa",
+   "destacada": false,
+   "primeraVez": "2026-11-27T22:33:58.227Z",
+   "titulo_en": "Colombia – Law against Food Loss and Waste"
+  },
+  {
    "id": "prensa-wj9031",
    "titulo": "Seguimos perdiendo biodiversidad en el mundo",
    "resumen": "",
@@ -1487,20 +1501,6 @@
    "destacada": false,
    "primeraVez": "2026-10-24T01:44:27.869Z",
    "titulo_en": "Amazon Marathon 2026 joins the conservation of Guaviare with the planting of 2,800 trees"
-  },
-  {
-   "id": "prensa-bhebhz",
-   "titulo": "La fauna silvestre cayó 73% entre 1970 y el 2022: WWF señala causas y vías de recuperación",
-   "resumen": "",
-   "fecha": "2026-10-08T07:00:00.000Z",
-   "imagen": "",
-   "credito": "",
-   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWVgxdUhlY2ZXRTRMRHlBOExNc1EtNzlQRW5Pdkg2T1pkMS1WeW9oMjBnU0JZbHJpZmczMVJ4dTk1T1d2Q01qc1M1ZjV1N2R3dlk1Z0daSFZWQXRqaTZmX3dPQnd0bWRxQjJiLVBUdC04a0gtRVpRaEJiQ1VqSWRXdC1adnVySmQ3RTlfZk9Kb3luVGptSWF6RzlINlVtb05PVUlXTUpQVVZjM1l6ZVZyMjlCRkw?oc=5",
-   "fuente": "La Patria",
-   "tipo": "prensa",
-   "destacada": false,
-   "primeraVez": "2026-10-24T01:44:27.869Z",
-   "titulo_en": "Wildlife fell 73% between 1970 and 2022: WWF points to causes and recovery pathways"
   }
  ],
  "videos": [
